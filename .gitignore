@@ -19,3 +19,4 @@ data/pkl/
 *.pickle
 *.pkl
 .env
+.github/workflows/
