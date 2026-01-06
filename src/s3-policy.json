@@ -1,0 +1,26 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Effect": "Allow",
+        "Action": [
+          "s3:GetObject",
+          "s3:GetObjectVersion",
+          "s3:GetObjectAttributes",
+          "s3:GetObjectTagging",
+          "s3:GetObjectVersionTagging",
+          "s3:ListBucket",
+          "s3:ListAccessPoints",
+          "s3:ListJobs",
+          "s3:ListAccessPointsForObjectLambda",
+          "s3:ListBucketMultipartUploads",
+          "s3:ListMultipartUploadParts",
+          "s3:ListBucketVersions",
+          "s3:ListAllMyBuckets",
+          "s3:ListTagsForResource"
+        ],
+        "Resource": "*"
+      }
+    ]
+}
+  

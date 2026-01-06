@@ -1,0 +1,1235 @@
+,Info,Type,Value
+0,Disclosure of general basis for preparation of sustainability statement ,narrative,511
+1,Basis for preparation of sustainability statement,semi-narrative,531
+2,Scope of consolidation of consolidated sustainability statement is same as for financial statements,narrative,241
+3,Indication of subsidiary undertakings included in consolidation that are exempted from individual or consolidated sustainability reporting ,narrative,41
+4,Disclosure of extent to which sustainability statement covers upstream and downstream value chain ,narrative,721
+5,"Option to omit specific piece of information corresponding to intellectual property, know-how or results of innovation has been used",semi-narrative,591
+6,Option allowed by Member State to omit disclosure of impending developments or matters in course of negotiation has been used,semi-narrative,811
+7,Disclosures in relation to specific circumstances ,narrative,921
+8,Medium- or long-term time horizons defined by ESRS 1 have been deviated from,semi-narrative,611
+9,Disclosure of definitions of medium- or long-term time horizons ,narrative,971
+10,Disclosure of reasons for applying different definitions of time horizons ,narrative,191
+11,Metrics include value chain data estimated using indirect sources,semi-narrative,151
+12,Disclosure of metrics that include value chain data estimated using indirect sources ,narrative,781
+13,Description of basis for preparation of metrics that include value chain data estimated using indirect sources ,narrative,841
+14,Description of resulting level of accuracy of metrics that include value chain data estimated using indirect sources ,narrative,21
+15,Description of planned actions to improve accuracy in future of metrics that include value chain data estimated using indirect sources ,narrative,481
+16,Disclosure of quantitative metrics and monetary amounts disclosed that are subject to high level of measurement uncertainty ,narrative,441
+17,Disclosure of sources of measurement uncertainty ,narrative,401
+18,"Disclosure of assumptions, approximations and judgements made in measurement ",narrative,711
+19,Explanation of changes in preparation and presentation of sustainability information and reasons for them ,narrative,891
+20,Disclosure of revised comparative figures ,narrative,371
+21,Disclosure of difference between figures disclosed in preceding period and revised comparative figures ,narrative,941
+22,Disclosure of nature of prior period material errors ,narrative,501
+23,Disclosure of corrections for prior periods included in sustainability statement ,narrative,961
+24,Disclosure of why correction of prior period errors is not practicable ,narrative,141
+25,Disclosure of other legislation or generally accepted sustainability reporting standards and frameworks based on which information has been included in sustainability statement ,narrative,391
+26,Disclosure of reference to paragraphs of standard or framework applied ,narrative,911
+27,European standards approved by European Standardisation System (ISO/IEC or CEN/CENELEC standards) have been relied on,semi-narrative,651
+28,Disclosure of extent to which data and processes that are used for sustainability reporting purposes have been verified by external assurance provider and found to conform to corresponding ISO/IEC or CEN/CENELEC standard ,narrative,481
+29,List of DRs or DPs mandated by a Disclosure Requirement,narrative,451
+30,"Topics (E4, S1, S2, S3, S4) have been assessed to be material ",semi-narrative,131
+31,List of sustainability matters assessed to be material (phase-in),semi-narrative,961
+32,Disclosure of how business model and strategy take account of impacts related to sustainability matters assessed to be material (phase-in) ,narrative,921
+33,Description of any time-bound targets set related to sustainability matters assessed to be material (phase-in) and progress made towards achieving those targets ,narrative,181
+34,Description of policies related to sustainability matters assessed to be material (phase-in) ,narrative,451
+35,"Description of actions taken to identify, monitor, prevent, mitigate, remediate or bring end to actual or potential adverse impacts related to sustainability matters assessed to be material (phase-in) and result of such actions ",narrative,981
+36,Disclosure of metrics related to sustainability matters assessed to be material (phase-in) ,narrative,221
+37,"Information about composition and diversity of members of administrative, management and supervisory bodies ",narrative,271
+38,Number of executive members,Integer,221
+39,Number of non-executive members,Integer,351
+40,Information about representation of employees and other workers ,narrative,851
+41,"Information about member's experience relevant to sectors, products and geographic locations of undertaking ",narrative,701
+42,"Percentage of members of administrative, management and supervisory bodies",Percent,52%
+43,Board's gender diversity ratio,Percent,1%
+44,Percentage of independent board members,Percent,68%
+45,"Information about roles and responsibilities of administrative, management and supervisory bodies ",narrative,801
+46,"Information about identity of administrative, management and supervisory bodies or individual(s) within body responsible for oversight of impacts, risks and opportunities ",narrative,221
+47,"Disclosure of how body's or individuals within body responsibilities for impacts, risks and opportunities are reflected in undertaking's terms of reference, board mandates and other related policies ",narrative,681
+48,"Description of management's role in governance processes, controls and procedures used to monitor, manage and oversee impacts, risks and opportunities ",narrative,441
+49,Description of how oversight is exercised over management-level position or committee to which management's role is delegated to ,narrative,371
+50,"Information about reporting lines to administrative, management and supervisory bodies ",narrative,841
+51,Disclosure of how dedicated controls and procedures are integrated with other internal functions ,narrative,701
+52,"Disclosure of how administrative, management and supervisory bodies and senior executive management oversee setting of targets related to material impacts, risks and opportunities and how progress towards them is monitored ",narrative,461
+53,"Disclosure of how administrative, management and supervisory bodies determine whether appropriate skills and expertise are available or will be developed to oversee sustainability matters ",narrative,821
+54,Information about sustainability-related expertise that bodies either directly possess or can leverage ,narrative,21
+55,"Disclosure of how sustainability-related skills and expertise relate to material impacts, risks and opportunities ",narrative,81
+56,"Disclosure of whether, by whom and how frequently administrative, management and supervisory bodies are informed about material impacts, risks and opportunities, implementation of due diligence, and results and effectiveness of policies, actions, metrics and targets adopted to address them ",narrative,351
+57,"Disclosure of how administrative, management and supervisory bodies consider impacts, risks and opportunities when overseeing strategy, decisions on major transactions and risk management process ",narrative,391
+58,"Disclosure of list of material impacts, risks and opportunities addressed by administrative, management and supervisory bodies or their relevant committees ",narrative,201
+59,Disclosure of how governance bodies ensure that appropriate mechanism for performance monitoring is in place ,narrative,921
+60,"Incentive schemes and remuneration policies linked to sustainability matters for members of administrative, management and supervisory bodies exist",semi-narrative,581
+61,Description of key characteristics of incentive schemes ,narrative,281
+62,"Description of specific sustainability-related targets and (or) impacts used to assess performance of members of administrative, management and supervisory bodies ",narrative,201
+63,Disclosure of how sustainability-related performance metrics are considered as performance benchmarks or included in remuneration policies ,narrative,561
+64,Percentage of variable remuneration dependent on sustainability-related targets and (or) impacts,Percent,23%
+65,Description of level in undertaking at which terms of incentive schemes are approved and updated ,narrative,731
+66,Disclosure of mapping of information provided in sustainability statement about due diligence process ,narrative,271
+67,"Description of scope, main features and components of risk management and internal control processes and systems in relation to sustainability reporting ",narrative,401
+68,Description of risk assessment approach followed ,narrative,661
+69,Description of main risks identified and their mitigation strategies ,narrative,401
+70,Description of how findings of risk assessment and internal controls as regards sustainability reporting process have been integrated into relevant internal functions and processes ,narrative,331
+71,"Description of periodic reporting of findings of risk assessment and internal controls to administrative, management and supervisory bodies ",narrative,891
+72,Disclosure of information about key elements of general strategy that relate to or affect sustainability matters ,narrative,301
+73,Description of significant groups of products and (or) services offered ,narrative,181
+74,Description of significant markets and (or) customer groups served ,narrative,491
+75,Total number of employees (head count),Integer,571
+76,Number of employees (head count),Integer,571
+77,Description of products and services that are banned in certain markets ,narrative,1
+78,Total revenue ,Monetary,661
+79,Revenue by ESRS Sectors,Table/Monetary,721
+80,List of additional significant ESRS sectors in which significant activities are developed or in which undertaking is or may be connected to material impacts,semi-narrative,921
+81,"Undertaking is active in fossil fuel (coal, oil and gas) sector",semi-narrative,521
+82,"Revenue from fossil fuel (coal, oil and gas) sector",Monetary,451
+83,Revenue from coal,Monetary,491
+84,Revenue from oil,Monetary,851
+85,Revenue from gas,Monetary,741
+86,Revenue from Taxonomy-aligned economic activities related to fossil gas,Monetary,201
+87,Undertaking is active in chemicals production,semi-narrative,401
+88,Revenue from chemicals production,Monetary,31
+89,Undertaking is active in controversial weapons,semi-narrative,571
+90,Revenue from controversial weapons,Monetary,971
+91,Undertaking is active in cultivation and production of tobacco,semi-narrative,81
+92,Revenue from cultivation and production of tobacco,Monetary,311
+93,"Description of sustainability-related goals in terms of significant groups of products and services, customer categories, geographical areas and relationships with stakeholders ",narrative,531
+94,"Disclosure of assessment of current significant products and (or) services, and significant markets and customer groups, in relation to sustainability-related goals ",narrative,931
+95,Disclosure of elements of strategy that relate to or impact sustainability matters ,narrative,841
+96,List of ESRS sectors that are significant for undertaking,semi-narrative,801
+97,Description of business model and value chain ,narrative,501
+98,"Description of inputs and approach to gathering, developing and securing inputs ",narrative,101
+99,"Description of outputs and outcomes in terms of current and expected benefits for customers, investors and other stakeholders ",narrative,41
+100,Description of main features of upstream and downstream value chain and undertakings position in value chain ,narrative,231
+101,Description of stakeholder engagement ,narrative,201
+102,Description of key stakeholders ,narrative,751
+103,Description of categories of stakeholders for which engagement occurs ,narrative,981
+104,Description of how stakeholder engagement is organised ,narrative,601
+105,Description of purpose of stakeholder engagement ,narrative,271
+106,Description of how outcome of stakeholder engagement is taken into account ,narrative,561
+107,Description of understanding of interests and views of key stakeholders as they relate to undertaking's strategy and business model ,narrative,141
+108,Description of amendments to strategy and (or) business model ,narrative,501
+109,Description of how strategy and (or) business model have been amended or are expected to be amended to address interests and views of stakeholders ,narrative,481
+110,Description of any further steps that are being planned and in what timeline ,narrative,451
+111,Further steps that are being planned are likely to modify relationship with and views of stakeholders,semi-narrative,731
+112,"Description of how administrative, management and supervisory bodies are informed about views and interests of affected stakeholders with regard to sustainability-related impacts ",narrative,961
+113,Description of material impacts resulting from materiality assessment ,narrative,561
+114,Description of material risks and opportunities resulting from materiality assessment ,narrative,461
+115,"Disclosure of current and anticipated effects of material impacts, risks and opportunities on business model, value chain, strategy and decision-making, and how undertaking has responded or plans to respond to these effects ",narrative,641
+116,Disclosure of how material negative and positive impacts affect (or are likely to affect) people or environment ,narrative,651
+117,Disclosure of how impacts originate from or are connected to strategy and business model ,narrative,771
+118,Disclosure of reasonably expected time horizons of impacts ,narrative,701
+119,Description of nature of activities or business relationships through which undertaking is involved with material impacts ,narrative,411
+120,"Disclosure of current financial effects of material risks and opportunities on financial position, financial performance and cash flows and material risks and opportunities for which there is significant risk of material adjustment within next annual reporting period to carrying amounts of assets and liabilities reported in related financial statements ",narrative/monetary,941
+121,"Disclosure of anticipated financial effects of material risks and opportunities on financial position, financial performance and cash flows over short-, medium- and long-term ",narrative/monetary,451
+122,Information about resilience of strategy and business model regarding capacity to address material impacts and risks and to take advantage of material opportunities ,narrative,531
+123,"Disclosure of changes to material impacts, risks and opportunities compared to previous reporting period ",narrative,851
+124,"Disclosure of specification of impacts, risks and opportunities that are covered by ESRS Disclosure Requirements as opposed to those covered by additional entity-specific disclosures ",narrative,381
+125,"Description of methodologies and assumptions applied in process to identify impacts, risks and opportunities ",narrative,421
+126,"Description of process to identify, assess, prioritise and monitor potential and actual impacts on people and environment, informed by due diligence process ",narrative,1
+127,"Description of how process focuses on specific activities, business relationships, geographies or other factors that give rise to heightened risk of adverse impacts ",narrative,821
+128,Description of how process considers impacts with which undertaking is involved through own operations or as result of business relationships ,narrative,481
+129,Description of how process includes consultation with affected stakeholders to understand how they may be impacted and with external experts ,narrative,881
+130,"Description of how process prioritises negative impacts based on their relative severity and likelihood and positive impacts based on their relative scale, scope and likelihood and determines which sustainability matters are material for reporting purposes ",narrative,241
+131,"Description of process used to identify, assess, prioritise and monitor risks and opportunities that have or may have financial effects ",narrative,581
+132,Description of how connections of impacts and dependencies with risks and opportunities that may arise from those impacts and dependencies have been considered ,narrative,221
+133,"Description of how likelihood, magnitude, and nature of effects of identified risks and opportunities have been assessed ",narrative,951
+134,Description of how sustainability-related risks relative to other types of risks have been prioritised ,narrative,981
+135,Description of decision-making process and related internal control procedures ,narrative,411
+136,"Description of extent to which and how process to identify, assess and manage impacts and risks is integrated into overall risk management process and used to evaluate overall risk profile and risk management processes ",narrative,301
+137,"Description of extent to which and how process to identify, assess and manage opportunities is integrated into overall management process ",narrative,511
+138,"Description of input parameters used in process to identify, assess and manage material impacts, risks and opportunities ",narrative,471
+139,"Description of how process to identify, assess and manage impacts, risks and opportunities has changed compared to prior reporting period ",narrative,151
+140,Disclosure of list of data points that derive from other EU legislation and information on their location in sustainability statement ,semi-narrative,771
+141,Disclosure of list of ESRS Disclosure Requirements complied with in preparing sustainability statement following outcome of materiality assessment ,semi-narrative,481
+142,Explanation of negative materiality assessment for ESRS E1 Climate change ,narrative,31
+143,Explanation of negative materiality assessment for ESRS E2 Pollution ,narrative,131
+144,Explanation of negative materiality assessment for ESRS E3 Water and marine resources ,narrative,661
+145,Explanation of negative materiality assessment for ESRS E4 Biodiversity and ecosystems ,narrative,11
+146,Explanation of negative materiality assessment for ESRS E5 Circular economy ,narrative,321
+147,Explanation of negative materiality assessment for ESRS S1 Own workforce ,narrative,501
+148,Explanation of negative materiality assessment for ESRS S2 Workers in value chain ,narrative,741
+149,Explanation of negative materiality assessment for ESRS S3 Affected communities ,narrative,481
+150,Explanation of negative materiality assessment for ESRS S4 Consumers and end-users ,narrative,331
+151,Explanation of negative materiality assessment for ESRS G1 Business conduct ,narrative,651
+152,"Explanation of how material information to be disclosed in relation to material impacts, risks and opportunities has been determined ",narrative,431
+153,Description of key contents of policy ,narrative,181
+154,Description of scope of policy or of its exclusions ,narrative,391
+155,Description of most senior level in organisation that is accountable for implementation of policy ,narrative,241
+156,Disclosure of third-party standards or initiatives that are respected through implementation of policy ,narrative,491
+157,Description of consideration given to interests of key stakeholders in setting policy ,narrative,751
+158,Explanation of how policy is made available to potentially affected stakeholders and stakeholders who need to help implement it ,narrative,231
+159,Disclosure of key action ,narrative,671
+160,Description of scope of key action ,narrative,331
+161,Time horizon under which key action is to be completed,semi-narrative,671
+162,"Description of key action taken, and its results, to provide for and cooperate in or support provision of remedy for those harmed by actual material impacts ",narrative,581
+163,Disclosure of quantitative and qualitative information regarding progress of actions or action plans disclosed in prior periods ,narrative,911
+164,"Disclosure of the type of current and future financial and other resources allocated to the
+action plan",narrative,741
+165,Current financial resources allocated to action plan (Capex),Monetary,151
+166,Current financial resources allocated to action plan (Opex),Monetary,741
+167,Future financial resources allocated to action plan (Capex),Monetary,311
+168,Future financial resources allocated to action plan (Opex),Monetary,761
+169,"Description of metric used to evaluate performance and effectiveness, in relation to material impact, risk or opportunity ",narrative,1
+170,Disclosure of methodologies and significant assumptions behind metric ,narrative,721
+171,Type of external body other than assurance provider that provides validation ,narrative,251
+172,Relationship with policy objectives,Decimal,611
+173,Measurable target,Decimal/Percent/narrative,461
+174,Nature of target,semi-narrative,761
+175,Description of scope of target ,narrative,441
+176,Baseline value ,Integer,31
+177,Baseline year,Integer,301
+178,Period to which target applies,semi-narrative,661
+179,Indication of milestones or interim targets ,narrative,351
+180,Description of methodologies and significant assumptions used to define target ,narrative,851
+181,Target related to environmental matters is based on conclusive scientific evidence,semi-narrative,181
+182,Disclosure of how stakeholders have been involved in target setting ,narrative,241
+183,"Description of any changes in target and corresponding metrics or underlying measurement methodologies, significant assumptions, limitations, sources and adopted processes to collect data ",narrative,511
+184,Description of performance against disclosed target ,narrative,701
+185,Disclosure of reasons for not having adopted policies,narrative,691
+186,Disclosure of timeframe in which the undertakings aims to adopt policies,narrative,991
+187,Disclosure of reasons for not having adopted actions,narrative,761
+188,Disclosure of timeframe in which the undertakings aims to adopt actions,narrative,491
+189,Disclosure of timeframe for setting of measurable outcome-oriented targets ,narrative,961
+190,Description of reasons why there are no plans to set measurable outcome-oriented targets ,narrative,871
+191,"Effectiveness of policies and actions is tracked in relation to material sustainability-related impact, risk and opportunity",semi-narrative,371
+192,"Description of processes through which effectiveness of policies and actions is tracked in relation to material sustainability-related impact, risk and opportunity ",narrative,291
+193,Description of defined level of ambition to be achieved and of any qualitative or quantitative indicators used to evaluate progress ,narrative,911
+194,Base year from which progress is measured,GYear,year 2022
+195,"Disclosure of how climate-related considerations are factored into remuneration of members of administrative, management and supervisory bodies",narrative,81
+196,Percentage of remuneration recognised that is linked to climate related considerations,percent,51%
+197,"Explanation of climate-related considerations that are factored into remuneration of members of administrative, management and supervisory bodies ",narrative,591
+198,Disclosure of transition plan  for climate change mitigation,narrative,81
+199,Explanation of how targets are compatible with limiting of global warming to one and half degrees Celsius in line with Paris Agreement ,narrative,311
+200,Disclosure of decarbonisation levers and key action ,narrative,231
+201,Disclosure of significant operational expenditures (Opex) and (or) capital expenditures (Capex) required for implementation of action plan ,narrative,801
+202,Financial resources allocated to action plan (OpEx),monetary,611
+203,Financial resources allocated to action plan (CapEx),monetary,581
+204,Explanation of potential locked-in GHG emissions from key assets and products and of how locked-in GHG emissions may jeopardise achievement of GHG emission reduction targets and drive transition risk ,narrative,421
+205,"Explanation of any objective or plans (CapEx, CapEx plans, OpEx) for aligning economic activities (revenues, CapEx, OpEx) with criteria established in Commission Delegated Regulation 2021/2139 ",narrative,191
+206,Significant CapEx for coal-related economic activities,monetary,171
+207,Significant CapEx for oil-related economic activities,monetary,241
+208,Significant CapEx for gas-related economic activities,monetary,501
+209,Undertaking is excluded from EU Paris-aligned Benchmarks,semi-narrative,81
+210,Explanation of how transition plan is embedded in and aligned with overall business strategy and financial planning ,narrative,611
+211,"Transition plan is approved by administrative, management and supervisory bodies",semi-narrative,531
+212,Explanation of progress in implementing transition plan ,narrative,771
+213,Date of adoption of transition plan for undertakings not having adopted transition plan yet,gYear,year 2023
+214,Type of climate-related risk,semi-narrative,311
+215,Description of scope of resilience analysis ,narrative,901
+216,Disclosure of how resilience analysis has been conducted ,narrative,281
+217,Date of resilience analysis,date,341
+218,Time horizons applied for resilience analysis,semi-narrative,641
+219,Description of results of resilience analysis ,narrative,151
+220,Description of ability to adjust or adapt strategy and business model to climate change ,narrative,841
+221,Description of process in relation to impacts on climate change ,narrative,591
+222,Description of process in relation to climate-related physical risks in own operations and along value chain ,narrative,561
+223,"Climate-related hazards have been identified over short-, medium- and long-term time horizons",semi-narrative,331
+224,Undertaking has screened whether assets and business activities may be exposed to climate-related hazards,semi-narrative,91
+225,"Short-, medium- and long-term time horizons have been defined",semi-narrative,81
+226,Extent to which assets and business activities may be exposed and are sensitive to identified climate-related hazards has been assessed,semi-narrative,641
+227,Identification of climate-related hazards and assessment of exposure and sensitivity are informed by high emissions climate scenarios,semi-narrative,871
+228,"Explanation of how climate-related scenario analysis has been used to inform identification and assessment of physical risks over short, medium and long-term ",narrative,621
+229,Description of process in relation to climate-related transition risks and opportunities in own operations and along value chain ,narrative,131
+230,"Transition events have been identified over short-, medium- and long-term time horizons",semi-narrative,601
+231,Undertaking has screened whether assets and business activities may be exposed to transition events,semi-narrative,761
+232,Extent to which assets and business activities may be exposed and are sensitive to identified transition events has been assessed,semi-narrative,101
+233,Identification of transition events and assessment of exposure has been informed by climate-related scenario analysis,semi-narrative,771
+234,Assets and business activities that are incompatible with or need significant efforts to be compatible with transition to climate-neutral economy have been identified,semi-narrative,281
+235,"Explanation of how climate-related scenario analysis has been used to inform identification and assessment of transition risks and opportunities over short, medium and long-term ",narrative,271
+236,Explanation of how climate scenarios used are compatible with critical climate-related assumptions made in financial statements ,narrative,611
+237,"Policies in place to manage its material impacts, risks and opportunities related to climate change mitigation and adaptation [see ESRS 2 MDR-P]",MDR-P,681
+238,Sustainability matters addressed by policy for climate change,semi-narrative,991
+239,Disclosures to be reported in case the undertaking has not adopted policies,nan,251
+240,Actions and Resources related to climate change mitigation and adaptation [see ESRS 2 MDR-A],MDR-A,191
+241,Decarbonisation lever type,semi-narrative,681
+242,Adaptation solution type,semi-narrative,141
+243,Achieved GHG emission reductions,ghgEmissions,661
+244,Expected GHG emission reductions,ghgEmissions,331
+245,Explanation of extent to which ability to implement action depends on availability and allocation of resources ,narrative,91
+246,Explanation of relationship of significant CapEx and OpEx required to implement actions taken or planned to relevant line items or notes in financial statements ,narrative,231
+247,Explanation of relationship of significant CapEx and OpEx required to implement actions taken or planned to key performance indicators required under Commission Delegated Regulation (EU) 2021/2178 ,narrative,611
+248,Explanation of relationship of significant CapEx and OpEx required to implement actions taken or planned to CapEx plan required by Commission Delegated Regulation (EU) 2021/2178 ,narrative,321
+249,Explanation of any potential differences between significant OpEx and CapEx disclosed under ESRS E1 and key performance indicators disclosed under Commission Delegated Regulation (EU) 2021/2178 ,narrative,691
+250,Disclosure to be reported if the undertaking has not adopted actions,nan,221
+251,Tracking effectiveness of policies and actions through targets [see ESRS 2 MDR-T ],MDR-T,141
+252,"Disclosure of how GHG emissions reduction targets and (or) any other targets have been set to manage material climate-related impacts, risks and opportunities ",narrative,591
+253,"Tables: Multiple Dimensions (baseline year and targets; GHG Types, Scope 3 Categories, Decarbonisation levers, entity-specific denominators for intensity value)",Table ,941
+254,Absolute value of total Greenhouse gas emissions reduction,Table/ghgEmissions,1Mtons
+255,Percentage of total Greenhouse gas emissions reduction (as of emissions of base year),Table/percent,85%
+256,Intensity value of total Greenhouse gas emissions reduction,Table/decimal,561
+257,Absolute value of Scope 1 Greenhouse gas emissions reduction,Table/ghgEmissions,2Mtons
+258,Percentage of Scope 1 Greenhouse gas emissions reduction (as of emissions of base year),Table/percent,90%
+259,Intensity value of Scope 1 Greenhouse gas emissions reduction,Table/decimal,501
+260,Absolute value of location-based Scope 2 Greenhouse gas emissions reduction,Table/ghgEmissions,2Mtons
+261,Percentage of location-based Scope 2 Greenhouse gas emissions reduction (as of emissions of base year),Table/percent,31%
+262,Intensity value of location-based Scope 2 Greenhouse gas emissions reduction,Table/decimal,951
+263,Absolute value of market-based Scope 2 Greenhouse gas emissions reduction,Table/ghgEmissions,3Mtons
+264,Percentage of market-based Scope 2 Greenhouse gas emissions reduction (as of emissions of base year),Table/percent,81%
+265,Intensity value of market-based Scope 2 Greenhouse gas emissions reduction,Table/decimal,551
+266,Absolute value of Scope 3 Greenhouse gas emissions reduction,Table/ghgEmissions,3Mtons
+267,Percentage of Scope 3 Greenhouse gas emissions reduction (as of emissions of base year),Table/percent,16%
+268,Intensity value of Scope 3 Greenhouse gas emissions reduction,Table/decimal,21
+269,Explanation of how consistency of GHG emission reduction targets with GHG inventory boundaries has been ensured ,narrative,251
+270,Disclosure of past progress made in meeting target before current base year ,narrative,71
+271,Description of how it has been ensured that baseline value is representative in terms of activities covered and influences from external factors ,narrative,651
+272,"Description of how new baseline value affects new target, its achievement and presentation of progress over time ",narrative,701
+273,GHG emission reduction target is science based and compatible with limiting global warming to one and half degrees Celsius,semi-narrative,581
+274,Description of expected decarbonisation levers and their overall quantitative contributions to achieve GHG emission reduction target ,narrative,301
+275,"Diverse range of climate scenarios have been considered to detect relevant environmental, societal, technology, market and policy-related developments and determine decarbonisation levers",narrative,351
+276,Disclosure to be reported if the undertaking has not set any measurable outcome-oriented targets,nan,811
+277,Total energy consumption related to own operations,energy,911
+278,Total energy consumption from fossil sources,energy,141
+279,Total energy consumption from nuclear sources,energy,911
+280,Percentage of energy consumption from nuclear sources in total energy consumption,percent,97%
+281,Total energy consumption from renewable sources,energy,681
+282,Fuel consumption from renewable sources,energy,71
+283,"Consumption of purchased or acquired electricity, heat, steam, and cooling from renewable sources",energy,661
+284,Consumption of self-generated non-fuel renewable energy,energy,41
+285,Percentage of renewable sources in total energy consumption,percent,24%
+286,Fuel consumption from coal and coal products,energy,201
+287,Fuel consumption from crude oil and petroleum products,energy,441
+288,Fuel consumption from natural gas,energy,311
+289,Fuel consumption from other fossil sources,energy,531
+290,"Consumption of purchased or acquired electricity, heat, steam, or cooling from fossil sources",energy,861
+291,Percentage of fossil sources in total energy consumption,percent,91%
+292,Non-renewable energy production,energy,981
+293,Renewable energy production,energy,671
+294,Energy intensity from activities in high climate impact sectors (total energy consumption per net revenue),percent,39%
+295,Total energy consumption from activities in high climate impact sectors,energy,221
+296,High climate impact sectors used to determine energy intensity,semi-narrative,171
+297,Disclosure of reconciliation to relevant line item or notes in financial statements of net revenue from activities in high climate impact sectors ,narrative,591
+298,Net revenue from activities in high climate impact sectors,monetary,991
+299,Net revenue from activities other than in high climate impact sectors,monetary,291
+300,"Gross Scopes 1, 2, 3 and Total GHG emissions - GHG emissions per scope [table]",Table ,191
+301,"Gross Scopes 1, 2, 3 and Total GHG emissions - financial and operational control [table]",Table ,881
+302,"GHG emissions - by country, operating segments, economic activity, subsidiary, GHG category or source type",Table ,831
+303,"Gross Scopes 1, 2, 3 and Total GHG emissions - Scope 3 GHG emissions (GHG Protocol) [table]",Table ,631
+304,"Gross Scopes 1, 2, 3 and Total GHG emissions - Scope 3 GHG emissions (ISO 14064-1) [table]",Table ,671
+305,"Gross Scopes 1, 2, 3 and Total GHG emissions - total GHG emissions - value chain [table]",Table ,131
+306,Gross Scope 1 greenhouse gas emissions ,Table/GhgEmissions,2Mtons
+307,Percentage of Scope 1 GHG emissions from regulated emission trading schemes,Table/Percent,301
+308,Gross location-based Scope 2 greenhouse gas emissions,Table/GhgEmissions,3Mtons
+309,Gross market-based Scope 2 greenhouse gas emissions,Table/GhgEmissions,2Mtons
+310,Gross Scope 3 greenhouse gas emissions,Table/GhgEmissions,3Mtons
+311,Total GHG emissions ,Table/GhgEmissions,4Mtons
+312,Total GHG emissions location based,Table/GhgEmissions,2Mtons
+313,Total GHG emissionsmarket based,Table/GhgEmissions,4Mtons
+314,Scope 2 location-based,Table/GhgEmissions,3Mtons
+315,Scope 2 market-based,Table/GhgEmissions,3Mtons
+316,Disclosure of significant changes in definition of what constitutes reporting undertaking and its value chain and explanation of their effect on year-to-year comparability of reported GHG emissions,narrative,31
+317,"Disclosure of methodologies, significant assumptions and emissions factors used to calculate or measure GHG emissions ",narrative,691
+318,Disclosure of the effects of significant events and changes in circumstances (relevant to its GHG emissions) that occur between the reporting dates of the entities in its value chain and the date of the undertaking’s general purpose financial statements,narrative,451
+319,biogenic emissions of CO2 from the combustion or bio-degradation of biomassnot included in Scope 1 GHG emissions,ghgEmissions,811
+320,"Percentage of contractual instruments, Scope 2 GHG emissions",percent,69%
+321,"Disclosure of types of contractual instruments, Scope 2 GHG emissions ",percent,39%
+322,Percentage of market-based Scope 2 GHG emissions linked to purchased electricity bundled with instruments,percent,7%
+323,Percentage of contractual instruments used for sale and purchase of energy bundled with attributes about energy generation in relation to Scope 2 GHG emissions,percent,1%
+324,Percentage of contractual instruments used for sale and purchase of unbundled energy attribute claims in relation to Scope 2 GHG emissions,percent,34%
+325,Disclosure of types of contractual instruments used for sale and purchase of energy bundled with attributes about energy generation or for unbundled energy attribute claims ,narrative,751
+326,Biogenic emissions of CO2 from combustion or bio-degradation of biomass not included in Scope 2 GHG emissions,ghgEmissions,821
+327,Percentage of GHG Scope 3 calculated using primary data ,Percent,34%
+328,Disclosure of why Scope 3 GHG emissions category has been excluded ,narrative,751
+329,List of Scope 3 GHG emissions categories included in inventory,semi-narrative,431
+330,Biogenic emissions of CO2 from combustion or bio-degradation of biomass that occur in value chain not included in Scope 3 GHG emissions,ghgEmissions,501
+331,Disclosure of reporting boundaries considered and calculation methods for estimating Scope 3 GHG emissions,narrative,141
+332,"GHG emissions intensity, location-based (total GHG emissions per net revenue)",Intensity,231
+333,"GHG emissions intensity, market-based (total GHG emissions per net revenue)",Intensity,511
+334,Disclosure of reconciliation to financial statements of net revenue used for calculation of GHG emissions intensity ,narrative,991
+335,Disclosure of reconciliation to relevant line item or notes in financial statements of net revenue amounts ,narrative,51
+336,Net revenue,monetary,711
+337,Net revenue used to calculate GHG intensity,monetary,241
+338,Net revenue other than used to calculate GHG intensity,monetary,501
+339,Disclosure of GHG removals and storage resulting from projects developed in own operations or contributed to in upstream and downstream value chain ,narrative,351
+340,Disclosure of GHG emission reductions or removals from climate change mitigation projects outside value chain financed or to be financed through any purchase of carbon credits ,narrative,241
+341,Removals and carbon credits are used,semi-narrative,811
+342,GHG Removals and storage Activity by undertaking scope and by removal and storage activity,TABLE,811
+343,Total GHG removals and storage,Table/ghgEmissions,1Mtons
+344,GHG emissions associated with removal activity,Table/ghgEmissions,3Mtons
+345,"Disclosure of calculation assumptions, methodologies and frameworks applied (GHG removals and storage) ",narrative,281
+346,Removal activity has been converted into carbon credits and sold on to other parties on voluntary market,semi-narrative,461
+347,Total amount of carbon credits outside value chain that are verified against recognised quality standards and cancelled,ghgEmissions,641
+348,Total amount of carbon credits outside value chain planned to be cancelled in future,ghgEmissions,471
+349,Reversals,ghgEmissions,831
+350,Disclosure of extent of use and quality criteria used for carbon credits ,narrative,431
+351,Percentage of reduction projects,percent,82%
+352,Percentage of removal projects,percent,24%
+353,Type of carbon credits from removal projects,semi-narrative,711
+354,Percentage for recognised quality standard,percent,19%
+355,Percentage issued from projects in European Union,percent,28%
+356,Percentage that qualifies as corresponding adjustment,percent,90%
+357,Date when carbon credits outside value chain are planned to be cancelled,date,721
+358,"Explanation of scope, methodologies and frameworks applied and how residual GHG emissions are intended to be neutralised ",narrative,801
+359,Public claims of GHG neutrality that involve use of carbon credits have been made,semi-narrative,801
+360,Public claims of GHG neutrality that involve use of carbon credits are accompanied by GHG emission reduction targets,semi-narrative,871
+361,Claims of GHG neutrality and reliance on carbon credits neither impede nor reduce achievement of GHG emission reduction targets or net zero target,semi-narrative,651
+362,Explanation of how public claims of GHG neutrality that involve use of carbon credits are accompanied by GHG emission reduction targets and how claims of GHG neutrality and reliance on carbon credits neither impede nor reduce achievement of GHG emission reduction targets or net zero target ,narrative,541
+363,Explanation of credibility and integrity of carbon credits used ,narrative,561
+364,Percentage for recognised quality standards,percent,48%
+365,Carbon pricing scheme by type,Table,111
+366,Type of internal carbon pricing scheme,Table/Narrative,791
+367,Description of specific scope of application of carbon pricing scheme ,Table/Narrative,611
+368,Carbon price applied for each metric tonne of greenhouse gas emission,Table/monetary,741
+369,Description of critical assumptions made to determine carbon price applied ,Table/Narrative,421
+370,Percentage of gross Scope 1 greenhouse gas emissions covered by internal carbon pricing scheme,Table/percent,43%
+371,Percentage of gross Scope 2 greenhouse gas emissions covered by internal carbon pricing scheme,Table/percent,2%
+372,Percentage of gross Scope 3 greenhouse gas emissions covered by internal carbon pricing scheme,Table/percent,86%
+373,Disclosure of how carbon price used in internal carbon pricing scheme is consistent with carbon price used in financial statements ,Table/Narrative,611
+374,Assets at material physical risk before considering climate change adaptation actions,monetary,351
+375,Assets at acute material physical risk before considering climate change adaptation actions,monetary,861
+376,Assets at chronic material physical risk before considering climate change adaptation actions,monetary,191
+377,Percentage of assets at material physical risk before considering climate change adaptation actions,percent,75%
+378,Disclosure of location of significant assets at material physical risk ,narrative,501
+379,Disclosure of location of its significant assets at material physical risk (disaggregated by NUTS codes),Table/narrative,481
+380,Percentage of assets at material physical risk addressed by climate change adaptation actions,percent,13%
+381,Net revenue from business activities at material physical risk,monetary,511
+382,Percentage of net revenue from business activities at material physical risk,percent,43%
+383,Disclosure of how anticipated financial effects for assets and business activities at material physical risk have been assessed ,narrative,681
+384,Disclosure of how assessment of assets and business activities considered to be at material physical risk relies on or is part of process to determine material physical risk and to determine climate scenarios ,narrative,241
+385,Disclosure of risk factors for net revenue from business activities at material physical risk ,narrative,671
+386,Disclosure of magnitude of anticipated financial effects in terms of margin erosion for business activities at material physical risk ,narrative,981
+387,Assets at material transition risk before considering climate mitigation actions,monetary,901
+388,Percentage of assets at material transition risk before considering climate mitigation actions,percent,8%
+389,Percentage of assets at material transition risk addressed by climate change mitigation actions,percent,17%
+390,Total carrying amount of real estate assets by energy efficiency classes,Table/monetary,401
+391,Disclosure of how potential effects on future financial performance and position for assets and business activities at material transition risk have been assessed ,narrative,71
+392,Disclosure of how assessment of assets and business activities considered to be at material transition risk relies on or is part of process to determine material transition risks and to determine scenarios ,narrative,721
+393,Estimated amount of potentially stranded assets,monetary,751
+394,Percentage of estimated share of potentially stranded assets of total assets at material transition risk,percent,59%
+395,Total carrying amount of real estate assets for which energy consumption is based on internal estimates,monetary,671
+396,Liabilities from material transition risks that may have to be recognised in financial statements,monetary,401
+397,Number of Scope 1 GHG emission allowances within regulated emission trading schemes,integer,421
+398,Number of emission allowances stored (from previous allowances) at beginning of reporting period,integer,921
+399,"Potential future liabilities, based on existing contractual agreements, associated with carbon credits planned to be cancelled in near future",monetary,421
+400,Monetised gross Scope 1 and 2 GHG emissions,monetary,671
+401,Monetised total GHG emissions,monetary,561
+402,Net revenue from business activities at material transition risk,monetary,711
+403,Net revenue from customers operating in coal-related activities,monetary,51
+404,Net revenue from customers operating in oil-related activities,monetary,201
+405,Net revenue from customers operating in gas-related activities,monetary,601
+406,Percentage of net revenue from customers operating in coal-related activities,percent,33%
+407,Percentage of net revenue from customers operating in oil-related activities,percent,13%
+408,Percentage of net revenue from customers operating in gas-related activities,percent,84%
+409,Percentage of net revenue from business activities at material transition risk,Table/percent,24%
+410,Disclosure of risk factors for net revenue from business activities at material transition risk ,narrative,741
+411,Disclosure of anticipated financial effects in terms of margin erosion for business activities at material transition risk ,narrative/monetary,581
+412,Disclosure of reconciliations with financial statements of significant amounts of assets and net revenue at material physical risk ,narrative,51
+413,"Disclosure of reconciliations with financial statements of significant amounts of assets, liabilities and net revenue at material transition risk ",narrative,441
+414,Expected cost savings from climate change mitigation actions,monetary,231
+415,Expected cost savings from climate change adaptation actions,monetary,231
+416,Potential market size of low-carbon products and services or adaptation solutions to which undertaking has or may have access,monetary,111
+417,Expected changes to net revenue from low-carbon products and services or adaptation solutions to which undertaking has or may have access,monetary,621
+418,"Information about methodologies, assumptions and tools used to screen site locations and business activities in order to identify actual and potential pollution-related impacts, risks and opportunities in own operations and upstream and downstream value chain ",narrative,961
+419,Disclosure of whether and how consultations have been conducted (pollution) ,narrative,431
+420,Disclosure of results of materiality assessment (pollution) ,narrative,291
+421,"Policies to manage its material impacts, risks and opportunities related to pollution [see ESRS 2 MDR-P]",MDR-P,281
+422,"Disclosure of whether and how policy addresses mitigating negative impacts related to pollution of air, water and soil ",narrative,851
+423,Disclosure of  whether and how policy addresses substituting and minimising use of substances of concern and phasing out substances of very high concern ,narrative,571
+424,"Disclosure of  whether and how policy addresses avoiding incidents and emergency situations, and if and when they occur, controlling and limiting their impact on people and environment ",narrative,161
+425,"Disclosure of contextual information on relations between policies implemented and how policies contribute to EU Action Plan Towards Zero Pollution for Air, Water and Soil ",narrative,381
+426,Disclosures to be reported in case the undertaking has not adopted policies,nan,261
+427,Actions and resources in relation to pollution [see ESRS 2 MDR-A],MDR-A,991
+428,Layer in mitigation hierarchy to which action can be allocated to (pollution),semi-narrative,11
+429,Action related to pollution extends to upstream/downstream value chain engagements,semi-narrative,21
+430,Layer in mitigation hierarchy to which resources can be allocated to (pollution),semi-narrative,421
+431,Information about action plans that have been implemented at site-level (pollution) ,narrative,211
+432,Disclosures to be reported if the undertaking has not adopted actions,nan,871
+433,Tracking effectiveness of policies and actions through targets [see ESRS 2 MDR-T ],MDR-T,521
+434,Disclosure of  whether and  how target relates to prevention and control of air pollutants and respective specific loads ,narrative,971
+435,Disclosure of  whether and how target relates to prevention and control of emissions to water and respective specific loads ,narrative,321
+436,Disclosure of  whether and how target relates to prevention and control of pollution to soil and respective specific loads ,narrative,421
+437,Disclosure of  whether and how target relates to prevention and control of  substances of concern and substances of very high concern,narrative,531
+438,Ecological thresholds and entity-specific allocations were taken into consideration when setting pollution-related target,semi-narrative,701
+439,Disclosure of ecological thresholds identified and methodology used to identify ecological thresholds (pollution) ,narrative,551
+440,Disclosure of how ecological entity-specific thresholds were determined (pollution) ,narrative,351
+441,Disclosure of how responsibility for respecting identified ecological thresholds is allocated (pollution) ,narrative,391
+442,Pollution-related target is mandatory (required by legislation)/voluntary,semi-narrative,411
+443,Pollution-related target addresses shortcomings related to Substantial Contribution criteria for Pollution Prevention and Control,semi-narrative,561
+444,Information about targets that have been implemented at site-level (pollution) ,narrative,71
+445,Disclosures to be reported if the undertaking has not adopted targets,nan,261
+446,"Pollution of air, water and soil [multiple dimensions: at site level or  by type of source, by sector or by geographical area",Table,661
+447,Emissions to air by pollutant ,Table/mass,811
+448,Emissions to water by pollutant  [+ by sectors/Geographical Area/Type of source/Site location],Table/mass,211
+449,Emissions to soil by pollutant  [+ by sectors/Geographical Area/Type of source/Site location],Table/mass,691
+450,Microplastics generated,mass,41
+451,Microplastics used,mass,291
+452,"Description of changes over time (pollution of air, water and soil) ",narrative,461
+453,"Description of measurement methodologies (pollution of air, water and soil) ",narrative,571
+454,Description of process(es) to collect data for pollution-related accounting and reporting ,narrative,631
+455,Percentage of total emissions of pollutants to water occurring in areas at water risk,percent,53%
+456,Percentage of total emissions of pollutants to water occurring in areas of high-water stress,percent,85%
+457,Percentage of total emissions of pollutants to soil occurring in areas at water risk,percent,84%
+458,Percentage of total emissions of pollutants to soil occurring in areas of high-water stress,percent,1%
+459,Disclosure of reasons for choosing inferior methodology to quantify emissions ,narrative,461
+460,Disclosure of list of installations operated that fall under IED and EU BAT Conclusions ,narrative,101
+461,Disclosure of list of any non-compliance incidents or enforcement actions necessary to ensure compliance in case of breaches of permit conditions ,narrative,1
+462,Disclosure of actual performance and comparison of environmental performance against emission levels associated with best available techniques (BAT-AEL) as described in EU-BAT conclusions ,narrative,271
+463,Disclosure of actual performance against environmental performance levels associated with best available techniques (BAT-AEPLs) applicable to sector and installation ,narrative,781
+464,Disclosure of list of any compliance schedules or derogations granted by competent authorities according to Article 15(4) IED that are associated with implementation of BAT-AELs ,narrative,511
+465,Total amount of substances of concern that are generated or used during production or that are procured by main hazard classes of substances of concern,TABLE,531
+466,Total amount of substances of concern that are generated or used during production or that are procured,Table/mass,191
+467,"Total amount of substances of concern that leave facilities as emissions, as products, or as part of products or services ",Table/mass,121
+468,Amount of substances of concern that leave facilities as emissions by main hazard classes of substances of concern,Table/mass,81
+469,Amount of substances of concern that leave facilities as products by main hazard classes of substances of concern,Table/mass,91
+470,Amount of substances of concern that leave facilities as part of products by main hazard classes of substances of concern,Table/mass,971
+471,Amount of substances of concern that leave facilities as services,Table/mass,931
+472,Total amount of substances of very high concern that are generated or used during production or that are procured by main hazard classes of substances of concern,Table/mass,931
+473,"Total amount of substances of very high concern that leave facilities as emissions, as products, or as part of products or services by main hazard classes of substances of concern",Table/mass,51
+474,Amount of substances of very high concern that leave facilities as emissions by main hazard classes of substances of concern,Table/mass,761
+475,Amount of substances of very high concern that leave facilities as products by main hazard classes of substances of concern,Table/mass,471
+476,Amount of substances of very high concern that leave facilities as part of products by main hazard classes of substances of concern,Table/mass,971
+477,Amount of substances of very high concern that leave facilities as services by main hazard classes of substances of concern,Table/mass,941
+478,Disclosure of quantitative information about anticipated financial effects of material risks and opportunities arising from pollution-related impacts ,Monetary,721
+479,Percentage of net revenue made with products and services that are or that contain substances of concern,percent,40%
+480,Percentage of net revenue made with products and services that are or that contain substances of very high concern,percent,75%
+481,Operating expenditures (OpEx) in conjunction with major incidents and deposits (pollution),monetary,101
+482,Capital expenditures (CapEx) in conjunction with major incidents and deposits (pollution),monetary,411
+483,Provisions for environmental protection and remediation costs (pollution),monetary,201
+484,Disclosure of qualitative information about anticipated financial effects of material risks and opportunities arising from pollution-related impacts ,narrative,301
+485,"Description of effects considered, related impacts and time horizons in which they are likely to materialise (pollution) ",narrative,951
+486,"Disclosure of critical assumptions used to quantify anticipated financial effects, sources and level of uncertainty of assumptions (pollution) ",narrative,821
+487,"Description of material incidents and deposits whereby pollution had negative impacts on environment and (or) is expected to have negative effects on financial cash flows, financial position and financial performance ",narrative,931
+488,"Disclosure of assessment of related products and services at risk and explanation how time horizon is defined, financial amounts are estimated, and which critical assumptions are made (pollution) ",narrative,961
+489,"Disclosure of whether and how assets and activities have been screened in order to identify actual and potential water and marine resources-related impacts, risks and opportunities in own operations and upstream and downstream value chain and methodologies, assumptions and tools used in screening [text block]",narrative,261
+490,Disclosure of how consultations have been conducted (water and marine resources) [text block],narrative,271
+491,Disclosure of results of materiality assessment (water and marine resources) [text block],narrative,191
+492,"Policies to manage its material impacts, risks and opportunities related to water and marine resources [see ESRS 2 MDR-P]",MDR-P,661
+493,Disclosure of whether and how policy adresses water management ,narrative,831
+494,Disclosure of whether and how policy adresses the use and sourcing of water and marine resources in own operations ,narrative,261
+495,Disclosure of whether and  how policy adresses water treatment,narrative,871
+496,Disclosure of whether and how policy adresses prevention and abatment of water pollution,narrative,721
+497,Disclosure of whether and how policy adresses product and service design in view of addressing water-related issues and preservation of marine resources ,narrative,531
+498,Disclosure of whether and how policy adresses commitment to reduce material water consumption in areas at water risk ,narrative,971
+499,Disclosure of reasons for not having adopted policies in areas of high-water stress ,narrative,981
+500,Disclosure of timeframe in which policies in areas of high-water stress will be adopted ,narrative,821
+501,Policies or practices related to sustainable oceans and seas have been adopted,semi-narrative,731
+502,"The policly contributes to good ecological and chemical quality of surface water bodies and good chemical quality and quantity of groundwater bodies, in order to protect human health, water supply, natural ecosystems and biodiversity, the good environmental status of marine waters and the protection of the resource base upon which marine related activities depend;",semi-narrative,751
+503,The policy minimise material impacts and risks and implement mitigation measures that aim to maintain the value and functionality of priority services and to increase resource efficiency on own operations,semi-narrative,81
+504,The policy avoid impacts on affected communities.,semi-narrative,601
+505,Disclosures to be reported in case the undertaking has not adopted policies,nan,691
+506,Actions and resources in relation to water and marine resources [see ESRS 2 MDR-A],MDR-A,461
+507,Layer in mitigation hierarchy to which action and resources can be allocated to (water and marine resources),semi-narrative,861
+508,Information about specific collective action for water and marine resources ,narrative,941
+509,Disclosure of actions and resources  in relation to areas at water risk ,narrative,381
+510,Disclosures to be reported if the undertaking has not adopted actions,nan,141
+511,Tracking effectiveness of policies and actions through targets [see ESRS 2 MDR-T ],MDR-T,801
+512,"Disclosure of whether and  how target relates to management of material impacts, risks and opportunities related to areas at water risk ",narrative,171
+513,"Disclosure of whether and  how target relates to responsible management of marine resources impacts, risks and opportunities ",narrative,951
+514,Disclosure of whether and how target relates to reduction of water consumption ,narrative,21
+515,(Local) ecological threshold and entity-specific allocation were taken into consideration when setting water and marine resources target,semi-narrative,941
+516,Disclosure of ecological threshold identified and methodology used to identify ecological threshold (water and marine resources) ,narrative,531
+517,Disclosure of how ecological entity-specific threshold was determined (water and marine resources) ,narrative,871
+518,Disclosure of how responsibility for respecting identified ecological threshold is allocated (water and marine resources) ,narrative,921
+519,Adopted and presented water and marine resources-related target is mandatory (based on legislation),semi-narrative,151
+520,Target relates to reduction of water withdrawals,semi-narrative,541
+521,Target relates to reduction of water discharges,semi-narrative,751
+522,Disclosures to be reported if the undertaking has not adopted targets,nan,231
+523,Total water consumption,Volume,781
+524,"Total water consumption in areas at water risk, including areas of high-water stress",Volume,981
+525,Total water recycled and reused,Volume,1
+526,Total water stored,Volume,351
+527,Changes in water storage,Volume,781
+528,Disclosure of contextual information regarding warter consumption,narrative,421
+529,Water intensity ratio,Percent,67%
+530,Water consumption - sectors/SEGMENTS [table],Table/Volume,91
+531,Additional water intensity ratio,Percent,22%
+532,Total water withdrawals,Volume,61
+533,Total water discharges,Volume,691
+534,Disclosure of quantitative information about potential financial effects of material risks and opportunities arising from water and marine resources-related impacts ,Monetary,381
+535,Disclosure of qualitative information of potential financial effects of material risks and opportunities arising from water and marine resources-related impacts ,narrative,231
+536,Description of effects considered and related impacts (water and marine resources) ,narrative,481
+537,Disclosure of critical assumptions used in estimates of financial effects of material risks and opportunities arising from water and marine resources-related impacts ,narrative,221
+538,Description of related products and services at risk (water and marine resources) ,narrative,991
+539,"Explanation of how time horizons are defined, financial amounts are estimated and critical assumptions made (water and marine resources) ",narrative,41
+540,List of material sites in own operation,narrative,171
+541,Activities related to sites located in or near biodiversity-sensitive areas negatively affect these areas where conclusions or necessary mitigation measures have not been implemented or are ongoing,narrative,951
+542,breakdown of material sites located in or near biodiversity-sensitive area ,narrative,271
+543,Disclosure of biodiversity-sensitive areas impacted ,narrative,871
+544,"Material negative impacts with regards to land degradation, desertification or soil sealing have been identified",semi-narrative,411
+545,Own operations affect threatened species,semi-narrative,241
+546,Disclosure of whether and how actual and potential impacts on biodiversity and ecosystems at own site locations and in value chain have been identified and assessed ,narrative,501
+547,Disclosure of whether and how dependencies on biodiversity and ecosystems and their services have been identified and assessed at own site locations and in value chain ,narrative,841
+548,Disclosure of whether and how transition and physical risks and opportunities related to biodiversity and ecosystems have been identified and assessed ,narrative,121
+549,Disclosure of whether and how systemic risks to own business model have been considered ,narrative,301
+550,Disclosure of whether and how systemic risks to society have been considered in assessment of biodiversity and ecosystems-related risks ,narrative,761
+551,Disclosure of whether and how consultations with affected communities on sustainability assessments of shared biological resources and ecosystems have been conducted ,narrative,171
+552,"Disclosure of whether and how specific sites, raw materials production or sourcing with negative or potential negative impacts on affected communities ",narrative,661
+553,Disclosure of whether and how communities were involved in materiality assessment ,narrative,561
+554,Disclosure of whether and how negative impacts on priority ecosystem services of relevance to affected communities may be avoided ,narrative,121
+555,Disclosure of plans to minimise unavoidable negative impacts and implement mitigation measures that aim to maintain value and functionality of priority services ,narrative,441
+556,"Business model(s) has been verified using range of biodiversity and ecosystems scenarios, or other scenarios with modelling of biodiversity and ecosystems related consequences, with different possible pathways",narrative,381
+557,Disclosure of why considered scenarios were taken into consideration ,narrative,341
+558,Disclosure of how considered scenarios are updated according to evolving conditions and emerging trends ,narrative,411
+559,Scenarios are informed by expectations in authoritative intergovernmental instruments and by scientific consensus,semi-narrative,991
+560,Undertaking has sites located in or near biodiversity-sensitive areas,semi-narrative,601
+561,Activities related to sites located in or near biodiversity-sensitive areas negatively affect these areas by leading to deterioration of natural habitats and habitats of species and to disturbance of species for which protected area has been designated,semi-narrative,51
+562,It has been concluded that it is necessary to implement biodiversity mitigation measures,semi-narrative,541
+563,"Disclosure of resilience of current business model(s) and strategy to biodiversity and ecosystems-related physical, transition and systemic risks and opportunities ",narrative,541
+564,Disclosure of scope of resilience analysis along own operations and related upstream and downstream value chain ,narrative,451
+565,Disclosure of key assumptions made (biodiversity and ecosystems) ,narrative,161
+566,Disclosure of time horizons used for analysis (biodiversity and ecosystems) ,narrative,251
+567,Disclosure of results of resilience analysis (biodiversity and ecosystems) ,narrative,811
+568,Disclosure of involvement of stakeholders (biodiversity and ecosystems) ,narrative,991
+569,Disclosure of transition plan to improve and achieve alignment of its business model and value chain,narrative,81
+570,"Explanation of how strategy and business model will be adjusted to improve and, ultimately, achieve alignment with relevant local, national and global public policy goals",narrative,941
+571,Include information about  its own operations and  explain how it is responding to material impacts in its related value chain,narrative,591
+572,Explanation of how b strategy interacts with  transition plan ,narrative,461
+573,Disclosure of contribution to impact drivers and possible mitigation actions following mitigation hierarchy and main path-dependencies and locked-in assets and resources that are associated with biodiversity and ecosystems change ,narrative,581
+574,Explanation and quantification of investments and funding supporting the implementation of its transition plan,narrative,481
+575,"Disclosure of objectives or plans for aligning economic activities (revenues, CapEx)",narrative,981
+576,Biodiversity offsets are part of transition plan,narrative,511
+577,Information about how process of implementing and updating transition plan is managed ,narrative,61
+578,"Administrative, management and supervisory bodies have approved transition plan",narrative,841
+579,Indication of metrics and related tools used to measure progress that are integrated in measurement approach (biodiversity and ecosystems) ,narrative,641
+580,Indication of current challenges and limitations to draft plan in relation to areas of significant impact and actions company is taking to address them (biodiversity and ecosystems) ,narrative,691
+581,"Policies to manage material impacts, risks, dependencies and opportunities related to biodiversity and ecosystems [see ESRS 2 - MDR-P]",MDR-P,51
+582,Disclosure on whether and how biodiversity and ecosystems-related policies relate to matters reported in E4 AR4,narrative,741
+583,Explanation of whether and  how biodiversity and ecosystems-related policy relates to material biodiversity and ecosystems-related impacts ,narrative,721
+584,Explanation of whether and  how biodiversity and ecosystems-related policy relates to material dependencies and material physical and transition risks and opportunities ,narrative,691
+585,"Explanation of whether and how biodiversity and ecosystems-related policy supports traceability of products, components and raw materials with significant actual or potential impacts on biodiversity and ecosystems along value chain ",narrative,131
+586,"Explanation of whether and how biodiversity and ecosystems-related policy addresses production, sourcing or consumption from ecosystems that are managed to maintain or enhance conditions for biodiversity ",narrative,741
+587,Explanation of whether and how biodiversity and ecosystems-related policy addresses social consequences of biodiversity and ecosystems-related impacts ,narrative,391
+588,"Disclosure of how policy refers to production, sourcing or consumption of raw materials ",narrative,11
+589,Disclosure of how policy refers to policies limiting procurement from suppliers that cannot demonstrate that they are not contributing to significant conversion of protected areas or key biodiversity areas ,narrative,261
+590,Disclosure of how policy refers to recognised standards or third-party certifications overseen by regulators ,narrative,511
+591,"Disclosure of how policy addresses raw materials originating from ecosystems that have been managed to maintain or enhance conditions for biodiversity, as demonstrated by regular monitoring and reporting of biodiversity status and gains or losses",narrative,271
+592,"Disclosure of how the policy enables to a), b), c) and d)",narrative,991
+593,Third-party standard of conduct used in policy is objective and achievable based on scientific approach to identifying issues and realistic in assessing how these issues can be addressed under variety of practical circumstances,semi-narrative,341
+594,Third-party standard of conduct used in policy is developed or maintained through process of ongoing consultation with relevant stakeholders with balanced input from all relevant stakeholder groups with no group holding undue authority or veto power over content,semi-narrative,461
+595,Third-party standard of conduct used in policy encourages step-wise approach and continuous improvement in standard and its application of better management practices and requires establishment of meaningful targets and specific milestones to indicate progress against principles and criteria over time,semi-narrative,421
+596,"Third-party standard of conduct used in policy is verifiable through independent certifying or verifying bodies, which have defined and rigorous assessment procedures that avoid conflicts of interest and are compliant with ISO guidance on accreditation and verification procedures or Article 5(2) of Regulation (EC) No 765/2008",semi-narrative,911
+597,Third-party standard of conduct used in policy conforms to ISEAL Code of Good Practice,semi-narrative,401
+598,"Biodiversity and ecosystem protection policy covering operational sites owned, leased, managed in or near protected area or biodiversity-sensitive area outside protected areas has been adopted",semi-narrative,41
+599,Sustainable land or agriculture practices or policies have been adopted,semi-narrative,671
+600,Sustainable oceans or seas practices or policies have been adopted,semi-narrative,941
+601,Policies to address deforestation have been adopted,semi-narrative,261
+602,Disclosures to be reported in case the undertaking has not adopted policies,nan,861
+603,Actions and resources in relation to biodiversity and ecosystems [see ESRS 2 - MDR-A],MDR-A,621
+604,Disclosure on how the mitigation hierarchy has been applied with regard to biodiversity and ecosystem actions,narrative,1
+605,Biodiversity offsets were used in action plan,semi-narrative,581
+606,Disclosure of aim of biodiversity offset and key performance indicators used ,narrative,401
+607,Financing effects (direct and indirect costs) of biodiversity offsets,Monetary,371
+608,Description of biodiversity offsets ,narrative,931
+609,Description of whether and how local and indigenous knowledge and nature-based solutions have been incorporated into biodiversity and ecosystems-related action ,narrative,221
+610,"Disclosure of key stakeholders involved and how they are involved, key stakeholders negatively or positively impacted by action and how they are impacted ",narrative,891
+611,Explanation of need for appropriate consultations and need to respect decisions of affected communities ,narrative,21
+612,Description of whether key action may induce significant negative sustainability impacts (biodiversity and ecosystems) ,narrative,131
+613,Explanation of whether the key action is intended to be a one-time initiative or systematic practice,narrative,111
+614,Key action plan is carried out only by undertaking (individual action) using its resources (biodiversity and ecosystems),semi-narrative,521
+615,"Key action plan is part of wider action plan (collective action), of which undertaking is member (biodiversity and ecosystems)",semi-narrative,1
+616,"Additional information about project, its sponsors and other participants (biodiversity and ecosystems) ",narrative,551
+617,Disclosures to be reported if the undertaking has not adopted actions,nan,181
+618,Tracking effectiveness of policies and actions through targets [see ESRS 2 MDR-T ],MDR-T,41
+619,Ecological threshold and allocation of impacts to undertaking were applied when setting target (biodiversity and ecosystems),semi-narrative,81
+620,Disclosure of ecological threshold identified and methodology used to identify threshold (biodiversity and ecosystems) ,narrative,911
+621,Disclosure of how entity-specific threshold was determined (biodiversity and ecosystems) ,narrative,451
+622,Disclosure of how responsibility for respecting identified ecological threshold is allocated (biodiversity and ecosystems) ,narrative,871
+623,Target is informed by relevant aspect of EU Biodiversity Strategy for 2030,semi-narrative,361
+624,"Disclosure of how the targets relate to the biodiversity and ecosystem impacts, dependencies, risks and opportunities identified in relation to own operations and upstream and downstream value chain",narrative,551
+625,Disclosure of the geographical scope of the targets,narrative,441
+626,Biodiversity offsets were used in setting target,semi-narrative,951
+627,Layer in mitigation hierarchy to which target can be allocated (biodiversity and ecosystems),semi-narrative,121
+628,The target addresses shortcomings related to the Substantial Contribution criteria ,semi-narrative,601
+629,Disclosures to be reported if the undertaking has not adopted targets,nan,981
+630,"Number of sites owned, leased or managed in or near protected areas or key biodiversity areas that undertaking is negatively affecting",Integer,701
+631,"Area of sites owned, leased or managed in or near protected areas or key biodiversity areas that undertaking is negatively affecting",Area,251
+632,Disclosure of land-use based on Life Cycle Assessment ,narrative,541
+633,"Disclosure of metrics considered relevant (land-use change, freshwater-use change and (or) sea-use change) ",narrative,371
+634,Disclosure of conversion over time of land cover ,narrative,471
+635,Disclosure of changes over time in management of ecosystem ,narrative,371
+636,Disclosure of changes in spatial configuration of landscape ,narrative,681
+637,Disclosure of changes in ecosystem structural connectivity ,narrative,381
+638,Disclosure of functional connectivity ,narrative,761
+639,Total use of land area,Area,431
+640,Total sealed area,Area,91
+641,Nature-oriented area on site,Area,581
+642,Nature-oriented area off site,Area,441
+643,Disclosure of how pathways of introduction and spread of invasive alien species and risks posed by invasive alien species are managed ,narrative,971
+644,Number of invasive alien species,Integer,501
+645,Area covered by invasive alien species,Area,321
+646,Disclosure of metrics considered relevant (state of species) ,narrative,681
+647,Disclosure of paragraph in another environment-related standard in which metric is referred to ,narrative,81
+648,"Disclosure of population size, range within specific ecosystems and extinction risk ",narrative,181
+649,Disclosure of changes in number of individuals of species within specific area ,narrative,851
+650,Information about species at global extinction risk ,narrative,421
+651,Disclosure of threat status of species and how activities or pressures may affect threat status ,narrative,371
+652,Disclosure of change in relevant habitat for threatened species as proxy for impact on local populationâ€™s extinction risk ,narrative,501
+653,Disclosure of ecosystem area coverage ,narrative,91
+654,Disclosure of quality of ecosystems relative to pre-determined reference state ,narrative,411
+655,Disclosure of multiple species within ecosystem ,narrative,731
+656,Disclosure of structural components of ecosystem condition ,narrative,351
+657,Disclosure of quantitative information about potential financial effects of material risks and opportunities arising from biodiversity- and ecosystem-related impacts and dependencies ,Monetary,591
+658,Disclosure of qualitative information about potential financial effects of material risks and opportunities arising from biodiversity- and ecosystem-related impacts and dependencies ,narrative,111
+659,"Description of effects considered, related impacts and dependencies (biodiversity and ecosystems) ",narrative,481
+660,Disclosure of critical assumptions used in estimates of financial effects of material risks and opportunities arising from biodiversity- and ecosystem-related impacts and dependencies ,narrative,731
+661,"Description of related products and services at risk (biodiversity and ecosystems) over the short-, medium- and long-term",narrative,251
+662,Explanation of how financial amounts are estimated and critical assumptions made (biodiversity and ecosystems) ,narrative/monetary,271
+663,"Disclosure of methodologies, assumptions and tools used in the screening  in order to identify actual and potential impacts, risks and opportunities in own operations and upstream and downstream value chain",narrative,561
+664,Information about process for conducting consultations (resource and circular economy) ,narrative,891
+665,"Disclosure of business units associated to resource use and circular economy material impacts, risks and opportunities ",narrative,121
+666,Disclosure of material resources used ,narrative,361
+667,Disclosure of material impacts and risks of staying in business as usual ,narrative,181
+668,Disclosure of material opportunities related to circular economy ,narrative,171
+669,Disclosure of material impacts and risks of transition to circular economy ,narrative,271
+670,"Disclosure of stages of value chain where resource use, risks and negative impacts are concentrated ",narrative,831
+671,"Policies to manage its material impacts, risks and opportunities related to resource use and circular economy [see ESRS 2 MDR-P]",MDR-P,571
+672,"Disclosure of whether and how policy addresses transitioning away from extraction of virgin resources, including relative increases in use of secondary (recycled) resources",narrative,981
+673,Disclosure of whether and how policy addresses sustainable sourcing and use of renewable resources,narrative,221
+674,"Description of whether and how policy addresses waste hierarchy (prevention, preparing for re-use, recycling, other recovery, disposal) ",narrative,921
+675,Description of  whether and how policy addresses prioritisation of strategies to avoid or minimise waste over waste treatment strategies ,narrative,881
+676,Disclosures to be reported in case the undertaking has not adopted policies,nan,541
+677,Actions and resources in relation to resource use and circular economy [see ESRS 2 MDR-A],MDR-A,81
+678,Description of higher levels of resource efficiency in use of technical and biological materials and water,narrative,131
+679,Description of higher rates of use of secondary raw materials,narrative,471
+680,Description of application of circular design,narrative,301
+681,Description of application of circular business practices,narrative,331
+682,Description of actions taken to prevent waste generation,narrative,721
+683,Description of Optimistation of waste management,narrative,561
+684,Information about collective action on development of collaborations or initiatives increasing circularity of products and materials ,narrative,151
+685,Description of contribution to circular economy ,narrative,971
+686,Description of other stakeholders involved in collective action (resource use and circular economy) ,narrative,791
+687,Description of organisation of project (resource use and circular economy) ,narrative,471
+688,Disclosures to be reported if the undertaking has not adopted actions,nan,71
+689,Tracking effectiveness of policies and actions through targets [see ESRS 2 MDR-T ],MDR-T,701
+690,Disclosure of how target relates to resources (resource use and circular economy) ,narrative,291
+691,Disclosure of how target relates to increase of circular design ,narrative,771
+692,Disclosure of how target relates to increase of circular material use rate ,narrative,81
+693,Disclosure of how target relates to minimisation of primary raw material ,narrative,511
+694,Disclosure of how target relates to reversal of depletion of stock of renewable resources ,narrative,391
+695,Target relates to waste management,semi-narrative,801
+696,Disclosure of how target relates to waste management ,narrative,281
+697,Disclosure of how target relates to other matters related to resource use or circular economy,narrative,171
+698,Layer in waste hierarchy to which target relates,semi-narrative,941
+699,Disclosure of ecological threshold identified and methodology used to identify ecological threshold (resource use and circular economy) ,narrative,581
+700,Disclosure of how ecological entity-specific threshold was determined (resource use and circular economy) ,narrative,591
+701,Disclosure of how responsibility for respecting identified ecological threshold is allocated (resource use and circular economy) ,narrative,411
+702,The targets being  set and presented are mandatory (required by legislation),semi-narrative,621
+703,Disclosures to be reported if the undertaking has not adopted targets,nan,921
+704,Disclosure of information on material resource inflows ,narrative,841
+705,Overall total weight of products and technical and biological materials used during the reporting period,Mass,121
+706,Percentage of biological materials (and biofuels used for non-energy purposes),Percent,97%
+707,"The absolute weight of secondary reused or recycled components, secondary intermediary products and secondary materials used to manufacture the undertaking’s products and services (including packaging)",Mass,211
+708,"Percentage of secondary reused or recycled components, secondary intermediary products and secondary materials",Percent,10%
+709,Description of methodologies used to calculate data and key assumptions used,narrative,11
+710,Description of materials that are sourced from by-products or waste stream ,narrative,721
+711,Description of how double counting was avoided and of choices made ,narrative,351
+712,Description of the key products and materials that come out of the undertaking’s production process,narrative,51
+713,"Disclosure of the expected durability of the products placed on the market, in relation to the industry average for each product group",Table/Percent,501
+714,Disclosure of the reparability of products,narrative,641
+715,The rates of recyclable content in products,Percent,86%
+716,The rates of recyclable content in products packaging,Percent,58%
+717,Description of methodologies used to calculate data (resource outflows) ,narrative,221
+718,Total Waste generated,Mass,81
+719,Hazardous waste diverted from disposal,Mass,661
+720,Hazardous waste diverted from disposal due to preparation for reuse,Mass,511
+721,Hazardous waste diverted from disposal due to recycling,Mass,861
+722,Hazardous waste diverted from disposal due to other recovery operations,Mass,641
+723,Non-hazardous waste diverted from disposal,Mass,831
+724,Non-hazardous waste diverted from disposal due to preparation for reuse,Mass,151
+725,Non-hazardous waste diverted from disposal due to recycling,Mass,431
+726,Non-hazardous waste diverted from disposal due to other recovery operations,Mass,461
+727,Hazardous waste directed to disposal,Mass,201
+728,Hazardous waste directed to disposal by incineration,Mass,911
+729,Hazardous waste directed to disposal by landfilling,Mass,471
+730,Hazardous waste directed to disposal by other disposal operations,Mass,641
+731,Non-hazardous waste directed to disposal,Mass,871
+732,Non-hazardous waste directed to disposal by incineration,Mass,351
+733,Non-hazardous waste directed to disposal by landfilling,Mass,51
+734,Non-hazardous waste directed to disposal by other disposal operations,Mass,11
+735,Non-recycled waste,Mass,571
+736,Percentage of non-recycled waste,Percent,15%
+737,Disclosure of composition of waste ,narrative,591
+738,Disclosure of waste streams relevant to undertaking's sector or activities ,narrative,341
+739,Disclosure of materials that are present in waste ,narrative,391
+740,Total amount of hazardous waste,Mass,681
+741,Total amount of radioactive waste,Mass,961
+742,Description of methodologies used to calculate data (waste generated) ,narrative,571
+743,Disclosure of its engagement in product end-of-life waste management,narrative,661
+744,Disclosure of quantitative information about potential financial effects of material risks and opportunities arising from resource use and circular economy-related impacts ,Monetary,901
+745,Disclosure of qualitative information of potential financial effects of material risks and opportunities arising from resource use and circular economy-related impacts ,narrative,101
+746,Description of effects considered and related impacts (resource use and circular economy) ,narrative,51
+747,Disclosure of critical assumptions used in estimates of financial effects of material risks and opportunities arising from resource use and circular economy-related impacts ,narrative,221
+748,Description of related products and services at risk (resource use and circular economy) ,narrative,901
+749,"Explanation of how time horizons are defined, financial amounts are estimated and of critical assumptions made (resource use and circular economy) ",narrative,151
+750,All people in its own workforce who can be materially impacted by undertaking are included in scope of disclosure under ESRS 2,semi-narrative,981
+751,Description of types of employees and non-employees in its own workforce subject to material impacts ,narrative,111
+752,Material negative impacts occurrence (own workforce),semi-narrative,11
+753,Description of activities that result in positive impacts and types of employees and non-employees in its own workforce that are positively affected or could be positively affected ,narrative,291
+754,Description of material risks and opportunities arising from impacts and dependencies on own workforce  ,narrative,751
+755,Description of material impacts on workers that may arise from transition plans for reducing negative impacts on environment and achieving greener and climate-neutral operations ,narrative,701
+756,Information about type of operations at significant risk of incidents of forced labour or compulsory labour ,narrative,681
+757,Information about countries or geographic areas with operations considered at significant risk of incidents of forced labour or compulsory labour ,narrative,941
+758,Information about type of operations at significant risk of incidents of child labour ,narrative,421
+759,Information about countries or geographic areas with operations considered at significant risk of incidents of child labour ,narrative,881
+760,"Disclosure of how understanding of people in its own workforce / value chain workers with particular characteristics, working in particular contexts, or undertaking particular activities may be at greater risk of harm has been developed ",narrative,601
+761,Disclosure of which of material risks and opportunities arising from impacts and dependencies on poeple in its own workforce  relate to specific groups of people,narrative,801
+762,"Policies to manage material impacts, risks and opportunities related to its own workforce [see ESRS 2 MDR-P]",MDR-P,451
+763,"Policies to manage material impacts, risks and opportunities related to own workforce, including for specific groups within workforce or all own workforce",semi-narrative,521
+764,Disclosure of explanations of significant changes to policies adopted during reporting year ,narrative,461
+765,Description of relevant human rights policy commitments relevant to own workforce,narrative,531
+766,"Disclosure of general approach in relation to respect for human rights including labour rights, of people in its own workforce",narrative,781
+767,Disclosure of general approach in relation to engagement with people in its own workforce,narrative,551
+768,Disclosure of general approach in relation to measures to provide and (or) enable remedy for human rights impacts ,narrative,961
+769,Disclosure of whether and how policies are aligned with relevant internationally recognised instruments ,narrative,931
+770,"Policies explicitly address trafficking in human beings, forced labour or compulsory labour and child labour",semi-narrative,191
+771,Workplace accident prevention policy or management system is in place,semi-narrative,601
+772,Specific policies aimed at elimination of discrimination are in place,semi-narrative,141
+773,Grounds for discrimination are specifically covered in policy,semi-narrative,721
+774,Disclosure of specific policy commitments related to inclusion and (or) positive action for people from groups at particular risk of vulnerability in own workforce ,narrative,591
+775,"Disclosure of whether and how policies are implemented through specific procedures to ensure discrimination is prevented, mitigated and acted upon once detected, as well as to advance diversity and inclusion ",narrative,401
+776,"Disclosure on an illustration of the types of communication of its policies to those individuals, group of individuals or entities for whom they are relevant",narrative,921
+777,"Policies and procedures which make qualifications, skills and experience the basis for the recruitment, placement, training and advancement are in place or planned",semi-narrative,921
+778,"Has or planning to assign responsibility at top management level for equal treatment and opportunities in employment, issue clear company-wide policies and procedures to guide equal employment practices, and link advancement to desired performance in this area",semi-narrative,831
+779,Staff training on non-discrimination policies and practices are in planned or in place,semi-narrative,421
+780,"Adjustments to the physical environment to ensure health and safety for workers, customers and other visitors with disabilities are planned or in place",semi-narrative,531
+781,Plans to evaluate or has evaluated whether a there is a risk that job requirements have been defined in a way that would systematically disadvantage certain groups,semi-narrative,951
+782,"Planing to keep or keeping an up-to-date records on recruitment, training and promotion that provide a transparent view of opportunities for employees and their progression",semi-narrative,41
+783,"Has put in place or plans to put in place grievance procedures to address complaints, handle appeals and provide recourse for employees when discrimination is identified, and is alert to formal structures and informal cultural issues that can prevent employees from raising concerns and grievances",semi-narrative,711
+784,Have or plans to have programs to promote access to skills development. ,semi-narrative,171
+785,Disclosures to be reported in case the undertaking has not adopted policies,nan,401
+786,Disclosure of whether and how perspectives of own workforce  inform decisions or activities aimed at managing actual and potential  impacts ,narrative,151
+787,Engagement occurs with own workforce  or their representatives,semi-narrative,791
+788,"Disclosure of stage at which engagement occurs, type of engagement and frequency of engagement ",narrative,851
+789,Disclosure of function and most senior role within undertaking that has operational responsibility for ensuring that engagement happens and that results inform undertakingâ€™s approach ,narrative,851
+790,Disclosure of Global Framework Agreement or other agreements related to respect of human rights of workers ,narrative,331
+791,Disclosure of how effectiveness of engagement with its own workforce  is assessed ,narrative,731
+792,Disclosure of steps taken to gain insight into perspectives of people in its own workforce that may be particularly vulnerable to impacts and (or) marginalised ,narrative,831
+793,Statement in case the undertaking has not adopted a general process to engage with its own workforce,narrative,591
+794,Disclosure of timeframe for adoption of general process to engage with its own workforce in case the undertaking has not adopted a general process for engagement,narrative,121
+795,Disclosure of how undertaking engages with at-risk or persons in vulnerable situations,narrative,711
+796,Disclosure of how potential barriers to engagement with people in its workforce are taken into account ,narrative,831
+797,Disclosure of how people in its workforce are provided with information that is understandable and accessible through appropriate communication channels ,narrative,911
+798,Disclosure of any conflicting interests that have arisen among different workers and how these conflicting interests have been resolved ,narrative,351
+799,Disclosure of how undertaking seeks to respect human rights of all stakeholders engaged ,narrative,431
+800,Information about effectiveness of processes for engaging with ist own workforce from previous reporting periods ,narrative,891
+801,Disclosure of general approach to and processes for providing or contributing to remedy where undertaking has caused or contributed to a material negative impact on people in ist own workforce  ,narrative,961
+802,Disclosure of specific channels in place for ist own workforce to raise concerns or needs directly with undertaking and have them addressed ,narrative,941
+803,Third-party mechanisms are accessible to all own workforce,semi-narrative,831
+804,Disclosure of how own workforce and their workers' representatives are able to access channels at level of undertaking they are employed by or contracted to work for ,narrative,371
+805,Grievance or complaints handling mechanisms related to employee matters exist,semi-narrative,761
+806,Disclosure of processes through which undertaking supports or requires availability of channels ,narrative,931
+807,Disclosure of how issues raised and addressed are tracked and monitored and how effectiveness of channels is ensured ,narrative,941
+808,Disclosure of whether and how it is assessed that its own workforce is aware of and trust structures or processes as way to raise their concerns or needs and have them addressed ,narrative,951
+809,Policies regarding protection against retaliation for individuals that use channels to raise concerns or needs are in place,semi-narrative,381
+810,Statement in case the undertaking has not adopted a channel for raising concerns ,narrative,541
+811,Disclosure of timeframe for channel for raising concerns to be in place,narrative,571
+812,"Action plans and resources to manage its material impacts, risks, and opportunities related to its own workforce [see ESRS 2 - MDR-A]",MDR-A,691
+813,"Description of action taken, planned or underway to prevent or mitigate negative impacts on own workforce  ",narrative,881
+814,Disclosure on whether and how action has been taken to provide or enable remedy in relation to actual material impact,narrative,441
+815,Description of additional initiatives or actions with primary purpose of delivering positive impacts for own workforce,narrative,271
+816,Description of how effectiveness of actions and initiatives in delivering outcomes for own workforce is tracked and assessed ,narrative,21
+817,Description of process through which it identifies what action is needed and appropriate in response to particular actual or potential negative impact on own workforce  ,narrative,171
+818,Description of what action is planned or underway to mitigate material risks arising from impacts and dependencies on own workforce  and how effectiveness is tracked ,narrative,811
+819,Description of what action is planned or underway to pursue material opportunities in relation to own workforce  ,narrative,121
+820,Disclosure of whether and how it is ensured that own practices do not cause or contribute to material negative impacts on own workforce  ,narrative,391
+821,Disclosure of resources are allocated to the management of material impacts,narrative,271
+822,Disclosure of general and specific approaches to addressing material negative impacts ,narrative,351
+823,Disclosure of initiatives aimed at contributing to additional material positive impacts ,narrative,341
+824,Disclosure of how far undertaking has progressed in efforts during reporting period ,narrative,931
+825,Disclosure of aims for continued improvement ,narrative,811
+826,Disclosure of whether and how undertaking seeks to use leverage with relevant business relationships to manage material negative impacts affecting own workforce  ,narrative,921
+827,"Disclosure of how the initiative, and its own involvement, is aiming to address the material impact concerned",narrative,431
+828,Disclosure of whether and how workers and workers' representatives play role in decisions regarding design and implementation of programmes or processes whose primary aim is to deliver positive impacts for workers ,narrative,681
+829,Information about intended or achieved positive outcomes of programmes or processes for own workforce  ,narrative,591
+830,Initiatives or processes whose primary aim is to deliver positive impacts for own workforce  are designed also to support achievement of one or more of Sustainable Development Goals,semi-narrative,651
+831,"Information about measures taken to mitigate negative impacts on workers that arise from transition to greener, climate-neutral economy ",narrative,621
+832,Description of internal functions that are involved in managing impacts and types of action taken by internal functions to address negative and advance positive impacts ,narrative,251
+833,Disclosures to be reported if the undertaking has not adopted actions,nan,501
+834,"Targets set to manage material impacts, risks and opportunities related to own workforce [see ESRS 2 - MDR-T]",MDR-T,691
+835,Disclosure of whether and how own workforce or workforce' representatives were engaged directly in setting targets ,narrative,651
+836,Disclosure of whether and how own workforce or workforce' representatives were engaged directly in tracking performance against targets ,narrative,571
+837,Disclosure of whether and how own workforce or workforce' representatives were engaged directly in identifying lessons or improvements as result of undertakings performance ,narrative,621
+838,Disclosure of intended outcomes to be achieved in lives of people in its own workforce  ,narrative,901
+839,Information about stability over time of target in terms of definitions and methodologies to enable comparability ,semi-narrative,781
+840,Disclosure of references to standards or commitments which targets are based on,narrative,801
+841,Disclosures to be reported if the undertaking has not adopted targets,nan,991
+842,Characteristics of undertaking's employees - number of employees by gender [table],Table A,271
+843,Number of employees (head count),Table A/Decimal,681
+844,Average number of employees (head count),Table A/Decimal,141
+845,Characteristics of undertaking's employees - number of employees in countries with 50 or more employees representing at least 10% of total number of employees [table],Table B,151
+846,Number of employees in countries with 50 or more employees representing at least 10% of total number of employees,Table B/Decimal,191
+847,Average number of employees in countries with 50 or more employees representing at least 10% of total number of employees,Table B/Decimal,411
+848,Characteristics of undertaking's employees - information on employees by contract type and gender  [table],Table C,501
+849,Characteristics of undertaking's employees - information on employees by region [table],Table C,21
+850,Number of employees (head count or full-time equivalent),Table C/Decimal,111
+851,Average number of employees (head count or full-time equivalent),Table C/Decimal,291
+852,Number of employee who have left undertaking	,Decimal,611
+853,Percentage of employee turnover,Percent,87%
+854,Description of methodologies and assumptions used to compile data (employees) ,narrative,571
+855,Employees numbers are reported in head count or full-time equivalent,semi-narrative,291
+856,Employees numbers are reported at end of reporting period/average/other methodology,semi-narrative,381
+857,Disclosure of contextual information necessary to understand data (employees) ,narrative,881
+858,Disclosure of cross-reference of information reported under paragragph 50 (a) to most representative number in financial statements ,narrative,431
+859,Further detailed breakdown by gender and by region [table],Table D,841
+860,Number of full-time employees by head count or full time equivalent,Table D Decimal/Integer,531
+861,Number of part-time employees by head count or full time equivalent,Table D Decimal/Integer,871
+862,Number of non-employees in own workforce,Decimal,801
+863,Number of non-employees in own workforce - self-employed people,Decimal,241
+864,Number of non-employees in own workforce - people provided by undertakings primarily engaged in employment activities,Decimal,321
+865,"Disclosure of the most common types of non-employees (for example, self-employed people, people provided by undertakings primarily engaged in employment activities, and other types relevant to the undertaking), their relationship with the undertaking, and the type of work that they perform.",narrative,471
+866,Description of methodologies and assumptions used to compile data (non-employees) ,narrative,441
+867,Non-employees numbers are reported in head count/full time equivalent,semi-narrative,671
+868,Non-employees numbers are reported at end of reporting period/average/other methodology,semi-narrative,271
+869,Disclosure of contextual information necessary to understand data (non-employee workers) ,narrative,521
+870,Description of basis of preparation of non-employees estimated number ,narrative,731
+871,Percentage of total employees covered by collective bargaining agreements,Percent,17%
+872,Percentage of its employees covered by collective bargaining agreements are within coverage rate by country (in the EEA),Table/Percent,771
+873,Percentage of own employees covered by collective bargaining agreements (outside EEA) by region,Table/Percent,411
+874,Working conditions and terms of employment for employees not covered by collective bargaining agreements are determined based on collective bargaining agreements that cover other employees or based on collective bargaining agreements from other undertakings,semi-narrative,881
+875,Description of extent to which working conditions and terms of employment of non-employees in own workforce are determined or influenced by collective bargaining agreements ,narrative,371
+876,Percentage of employees in country (EEA) covered by workers' representatives,Percent,73%
+877,"Disclosure of existence of any agreement with employees for representation by European Works Council (EWC), Societas Europaea (SE) Works Council, or Societas Cooperativa Europaea (SCE) Works Council ",narrative,201
+878,Own workforce in region (non-EEA) covered by collective bargaining agreements by coverage rate and by region,Table /Semi-Narrative,831
+879,Number of employees (head count) at top management level,Integer,681
+880,Percentage of employees at top management level,Percent,97%
+881,Number of employees (head count) under 30 years old,Integer,711
+882,Percentage of employees under 30 years old,Percent,1%
+883,Number of employees (head count) between 30 and 50 years old,Integer,831
+884,Percentage of employees between 30 and 50 years old,Percent,86%
+885,Number of employees (head count) over 50 years old,Integer,991
+886,Percentage of employees over 50 years old,Percent,8%
+887,Disclosure of own definition of top management used ,narrative,771
+888,"All employees are paid adequate wage, in line with applicable benchmarks",semi-narrative,421
+889,Adequate wages by country [table],Table E/numerical,791
+890,Percentage of  employees paid below the applicable adequate wage benchmark,Table E/Percent,511
+891,Percentage of non-employees paid below adequate wage,Table E/Percent,631
+892,"All employees in own workforce are covered by social protection, through public programs or through benefits offered, against loss of income due to sickness",semi-narrative,301
+893,"All employees in own workforce are covered by social protection, through public programs or through benefits offered, against loss of income due to unemployment starting from when own worker is working for undertaking",semi-narrative,201
+894,"All employees in own workforce are covered by social protection, through public programs or through benefits offered, against loss of income due to employment injury and acquired disability",semi-narrative,171
+895,"All employees in own workforce are covered by social protection, through public programs or through benefits offered, against loss of income due to parental leave",semi-narrative,541
+896,"All employees in own workforce are covered by social protection, through public programs or through benefits offered, against loss of income due to retirement",semi-narrative,671
+897,Social protection employees by country [table] by types of events and type of employees [including non employees],Table,601
+898,"Disclosure of types of employees who are not covered by social protection, through public programs or through benefits offered, against loss of income due to sickness ",narrative,461
+899,"Disclosure of types of employees who are not covered by social protection, through public programs or through benefits offered, against loss of income due to unemployment starting from when own worker is working for undertaking ",narrative,811
+900,"Disclosure of types of employees who are not covered by social protection, through public programs or through benefits offered, against loss of income due to employment injury and acquired disability ",narrative,631
+901,"Disclosure of types of employees who are not covered by social protection, through public programs or through benefits offered, against loss of income due to maternity leave ",narrative,81
+902,"Disclosure of types of employees who are not covered by social protection, through public programs or through benefits offered, against loss of income due to retirement ",narrative,141
+903,Percentage of persons with disabilities amongst employees subject to legal restrictions on collection of data,Percent,83%
+904,Percentage of employees with disabilities in own workforce breakdown by gender [table],Table/numerical,491
+905,Disclosure of contextual information necessary to understand data and how data has been compiled (persons with disabilities)) ,narrative,581
+906,Training and skills development indicators gender [table],Table F,91
+907,Percentage of employees that participated in regular performance and career development reviews,Table F/Percent,501
+908,Average number of training hours  by gender [table],Table G,111
+909,Average number of training hours per person for employees,Table G/Decimal,501
+910,Percentage of employees that participated in regular performance and career development reviews by employee category [table],Table G/percentage,991
+911,Average number of employees that participated in regular performance and career development reviews by employee category,Table G/Decimal,991
+912,Percentage of non-employees that participated in regular performance and career development reviews,Table G/Percent,56%
+913,Percentage of people in its own workforce who are covered by health and safety management system based on legal requirements and (or) recognised standards or guidelines,Percent,35%
+914,Number of fatalities in own workforce as result of work-related injuries and work-related ill health,Integer,861
+915,Number of fatalities as result of work-related injuries and work-related ill health of other workers working on undertaking's sites,Integer,231
+916,Number of recordable work-related accidents for own workforce,Integer,361
+917,Rate of recordable work-related accidents for own workforce,Percent,19%
+918,Number of cases of recordable work-related ill health of employees,Integer,171
+919,"Number of days lost to work-related injuries and fatalities from work-related accidents, work-related ill health and fatalities from ill health realted to employees",Integer,381
+920,Number of cases of recordable work-related ill health of non-employees,Integer,741
+921,"Number of days lost to work-related injuries and fatalities from work-related accidents, work-related ill health and fatalities from ill health realted to non-employees",Integer,631
+922,Percentage of own workforce who are covered by health and safety management system based on legal requirements and (or) recognised standards or guidelines and which has been internally audited and (or) audited or certified by external party,Percent,87%
+923,Description of underlying standards for internal audit or external certification of health and safety management system ,narrative,471
+924,Number of fatalities in own workforce as result of work-related injuries,Integer,741
+925,Number of fatalities in own workforce as result of work-related ill health,Integer,611
+926,Number of fatalities as result of work-related injuries of other workers working on undertaking's sites,Integer,541
+927,Number of fatalities as result of work-related ill health of other workers working on undertaking's sites,Integer,131
+928,Number of cases of recordable work-related ill health detected among former own workforce,Integer,581
+929,Percentage of employees entitled to take family-related leave,Percent,27%
+930,Percentage of entitled employees that took family-related leave,Percent,1%
+931,Percentage of entitled employees that took family-related leave by gender [table],Table/numerical,361
+932,All employees are entitled to family-related leaves through social policy and (or) collective bargaining agreements,semi-narrative,271
+933,Gender pay gap [table],Table H,161
+934,Gender pay gap,Table H/Percent,41
+935,Annual total remuneration ratio,Percent,1%
+936,"Disclosure of contextual information necessary to understand data, how data has been compiled and other changes to underlying data that are to be considered ",narrative,961
+937,Gender pay gap breakdown by employee category and/or country/segment [table],Table/numerical,851
+938,Gender pay gap breakdown by ordinary basic salary and complementary/variable components,Table/numerical,291
+939,Remuneration ratio adjusted for purchasing power differences between countries,Percent,40%
+940,Description of methodology used for calculation of remuneration ratio adjusted for purchasing power differences between countries ,narrative,771
+941,Number of incidents of discrimination [table],Table I,391
+942,Number of incidents of discrimination,Table I/Integer,871
+943,Number of complaints filed through channels for people in own workforce to raise concerns,Integer,511
+944,Number of complaints filed to National Contact Points for OECD Multinational Enterprises,Integer,11
+945,"Amount of material fines, penalties, and compensation for damages as result of violations regarding social and human rights factors",Monetary,961
+946,"Information about reconciliation of material fines, penalties, and compensation for damages as result of violations regarding social and human rights factors with most relevant amount presented in financial statements ",narrative,611
+947,"Disclosure of contextual information necessary to understand data and how data has been compiled (work-related grievances, incidents and complaints related to social and human rights matters) ",narrative,891
+948,Number of severe human rights issues and incidents connected to own workforce,Integer,731
+949,Number of severe human rights issues and incidents connected to own workforce that are cases of non respect of UN Guiding Principles and OECD Guidelines for Multinational Enterprises,Integer,491
+950,No severe human rights issues and incidents connected to own workforce have occurred,semi-narrative,311
+951,"Amount of material fines, penalties, and compensation for severe human rights issues and incidents connected to own workforce",Monetary,421
+952,"Information about reconciliation of amount of material fines, penalties, and compensation for severe human rights issues and incidents connected to own workforce with most relevant amount presented in financial statements ",narrative,731
+953,Disclosure of the status of incidents and/or complaints and actions taken,narrative,41
+954,Number of severe human rights cases where undertaking played role securing remedy for those affected,Integer,421
+955,All value chain workers  who can be materially impacted by undertaking are included in scope of disclosure under ESRS 2,semi-narrative,1
+956,Description of types of value chain workers subject to material impacts,narrative,221
+957,Type of value chain workers subject to material impacts by own operations or through value chain,semi-narrative,671
+958,"Disclosure of geographies or commodities for which there is significant risk of child labour, or of forced or compulsory labour, among workers in undertaking’s value chain ",narrative,781
+959,Material negative impacts occurrence (value chain workers),semi-narrative,241
+960,Description of activities that result in positive impacts and types of value chain workers  that are positively affected or could be positively affected ,narrative,21
+961,Description of material risks and opportunities arising from impacts and dependencies on  value chain workers  ,narrative,601
+962,"Disclosure of whether and how the undertaking has developed an understanding of how workers with particular characteristics, those working in particular contexts, or those undertaking particular activities may be at greater risk of harm.",narrative,221
+963,Disclosure of which of material risks and opportunities arising from impacts and dependencies on value chain workers  are impacts on specific groups ,narrative,591
+964,"Policies to manage material impacts, risks and opportunities related to value chain workers [see ESRS 2 MDR-P]",MDR-P,741
+965,"Policies to manage material impacts, risks and opportunities related to workers in the value chain, including for specific groups of value chain workers or all value chain workers",semi-narrative,211
+966,Description of relevant human rights policy commitments relevant to value chain workers,narrative,291
+967,Disclosure of general approach in relation to respect for human rights relevant to value chain workers,narrative,501
+968,Disclosure of general approach in relation to engagement with value chain workers,narrative,881
+969,Disclosure of general approach in relation to measures to provide and (or) enable remedy for human rights impacts ,narrative,391
+970,"Policies explicitly address trafficking in human beings, forced labour or compulsory labour and child labour",semi-narrative,241
+971,Undertaking has supplier code of conduct,semi-narrative,21
+972,Disclosure of whether and how policies are aligned with relevant internationally recognised instruments ,narrative,811
+973,"Disclosure of extent and indication of nature of cases of non-respect of the UN Guiding Principles on Business and Human Rights, ILO Declaration on Fundamental Principles and Rights at Work or OECD Guidelines for Multinational Enterprises that involve value chain workers",narrative,451
+974,Disclosure of explanations of significant changes to policies adopted during reporting year ,narrative,231
+975,"Disclosure on an illustration of the types of communication of its policies to those individuals, group of individuals or entities for whom they are relevant",narrative,381
+976,Disclosures to be reported in case the undertaking has not adopted policies,nan,521
+977,Disclosure of how perspectives of value chain workers inform decisions or activities aimed at managing actual and potential  impacts ,narrative,931
+978,"Engagement occurs with value chain workers or their legitimate
+representatives directly, or with credible proxies",semi-narrative,561
+979,"Disclosure of stage at which engagement occurs, type of engagement and frequency of engagement ",narrative,341
+980,Disclosure of function and most senior role within undertaking that has operational responsibility for ensuring that engagement happens and that results inform undertakings approach ,narrative,411
+981,Disclosure of Global Framework Agreement or other agreements related to respect of human rights of workers ,narrative,411
+982,Disclosure of how effectiveness of engagement with value chain workers is assessed ,narrative,511
+983,Disclosure of steps taken to gain insight into perspectives of value chain workers that may be particularly vulnerable to impacts and (or) marginalised ,narrative,921
+984,Statement in case the undertaking has not adopted a general process to engage with value chain workers,narrative,341
+985,Disclosure of timeframe for adoption of general process to engage with  value chain workers  in case the undertaking has not adopted a general process for engagement,narrative,431
+986,Disclosure of general approach to and processes for providing or contributing to remedy where undertaking has identified that it connected with a material negative impact on  value chain workers  ,narrative,61
+987,Disclosure of specific channels in place for value chain workers to raise concerns or needs directly with undertaking and have them addressed ,narrative,31
+988,Disclosure of processes through which undertaking supports or requires availability of channels ,narrative,881
+989,Disclosure of how issues raised and addressed are tracked and monitored and how effectiveness of channels is ensured ,narrative,481
+990,Disclosure of how it is assessed that value chain workers are aware of and trust structures or processes as way to raise their concerns or needs and have them addressed ,narrative,661
+991,Policies regarding protection against retaliation for individuals that use channels to raise concerns or needs are in place,semi-narrative,921
+992,Statement in case the undertaking has not adopted a channel for raising concerns ,narrative,551
+993,Disclosure of timeframe for channel for raising concerns to be in place,narrative,41
+994,Disclosure of how value chain workers are able to access channels at level of undertaking they are employed by or contracted to work for ,narrative,311
+995,Third-party mechanisms are accessible to all workers,semi-narrative,681
+996,Grievances are treated confidentially and with respect to rights of privacy and data protection,semi-narrative,581
+997,Value chain workers  are allowed to use anonymously channels to raise concerns or needs,semi-narrative,161
+998,"Action plans and resources to manage its material impacts, risks, and opportunities related to value chain workers [see ESRS 2 - MDR-A]",MDR-A,531
+999,"Description of action planned or underway to prevent, mitigate or remediate material negative impacts on  value chain workers  ",narrative,821
+1000,Description of whether and how action to provide or enable remedy in relation to an actual material impact,narrative,921
+1001,Description of additional initiatives or processes with primary purpose of delivering positive impacts for value chain workers ,narrative,31
+1002,Description of how effectiveness of actions or initiatives in delivering outcomes for value chain workersis tracked and assessed ,narrative,391
+1003,Description of processes to identifying what action is needed and appropriate in response to particular actual or potential material negative impact on  value chain workers  ,narrative,121
+1004,Description of approach to taking action in relation to specific material impacts on value chain workers  ,narrative,411
+1005,Description of approach to ensuring that processes to provide or enable remedy in event of material negative impacts on  value chain workers  are available and effective in their implementation and outcomes ,narrative,641
+1006,Description of what action is planned or underway to mitigate material risks arising from impacts and dependencies on  value chain workers  and how effectiveness is tracked ,narrative,381
+1007,Description of what action is planned or underway to pursue material opportunities in relation to  value chain workers  ,narrative,291
+1008,Disclosure of whether and how it is ensured that own practices do not cause or contribute to material negative impacts on value chain workers  ,narrative,501
+1009,Disclosure of severe human rights issues and incidents connected to upstream and downstream value chain ,narrative,691
+1010,Disclosure of resources allocated to management of material impacts ,narrative,511
+1011,Disclosure of general and specific approaches to addressing material negative impacts ,narrative,621
+1012,Disclosure of initiatives aimed at contributing to additional material positive impacts ,narrative,761
+1013,Disclosure of how far undertaking has progressed in efforts during reporting period ,narrative,151
+1014,Disclosure of aims for continued improvement ,narrative,451
+1015,Disclosure of whether and how undertaking seeks to use leverage with relevant business relationships to manage material negative impacts affecting value chain workers  ,narrative,171
+1016,Disclosure of how participation in industry or multi-stakeholder initiative and undertaking's own involvement is aiming to address material impacts ,narrative,21
+1017,Disclosure of how value chain workers and legitimate representatives or their credible proxies play role in decisions regarding design and implementation of programmes or processes ,narrative,221
+1018,Information about intended or achieved positive outcomes of programmes or processes for  value chain workers  ,narrative,351
+1019,Initiatives or processes whose primary aim is to deliver positive impacts for  value chain workers  are designed also to support achievement of one or more of Sustainable Development Goals,semi-narrative,61
+1020,Description of internal functions that are involved in managing impacts and types of action taken by internal functions to address negative and advance positive impacts ,narrative,511
+1021,Disclosures to be reported if the undertaking has not adopted actions,nan,411
+1022,"Targets set to manage material impacts, risks and opportunities related to value chain workers [see ESRS 2 - MDR-T]",MDR-T,731
+1023,"Disclosure of how value chain workers , their legitimate representatives or credible proxies were engaged directly in setting targets ",narrative,211
+1024,"Disclosure of how value chain workers , their legitimate representatives or credible proxies were engaged directly in tracking performance against targets ",narrative,271
+1025,"Disclosure of how value chain workers , their legitimate representatives or credible proxies were engaged directly in identifying lessons or improvements as result of undertaking’s performance ",narrative,241
+1026,Disclosure of intended outcomes to be achieved in lives of  value chain workers  ,narrative,611
+1027,Information about stability over time of target in terms of definitions and methodologies to enable comparability ,narrative,641
+1028,Disclosure of references to standards or commitments on which target is based ,narrative,561
+1029,Disclosures to be reported if the undertaking has not adopted targets,nan,251
+1030,All  affected communities who can be materially impacted by undertaking are included in scope of disclosure under ESRS 2,semi-narrative,181
+1031,Description of types of affected communities subject to material impacts,narrative,331
+1032,Type of communities subject to material impacts by own operations or through value chain,semi-narrative,61
+1033,Material negative impacts occurrence (affected communities),semi-narrative,691
+1034,Description of activities that result in positive impacts and types of affected communities that are positively affected or could be positively affected ,narrative,131
+1035,Description of material risks and opportunities arising from impacts and dependencies on  affected communities   ,narrative,281
+1036,"Disclosure of whether and how the undertaking has developed an understanding of how affected communities with particular characteristics or those living in particular contexts, or those undertaking particular activities may be at greater risk of harm",narrative,451
+1037,Disclosure of which of material risks and opportunities arising from impacts and dependencies on affected communities are impacts on specific groups ,narrative,401
+1038,"Policies to manage material impacts, risks and opportunities related to affected communities [see ESRS 2 MDR-P]",MDR-P,451
+1039,"Policies to manage material impacts, risks and opportunities related to affected communities, including specific affected communties or all affected communities",semi-narrative,41
+1040,Disclosure of any  any particular policy provisions for preventing and addressing impacts on indigenous peoples,narrative,71
+1041,Description of relevant human rights policy commitments relevant to affected communities,narrative,351
+1042,"Disclosure of general approach in relation to respect for human rights of communities, and indigenous peoples specifically",narrative,631
+1043,Disclosure of general approach in relation to engagement with affected communities,narrative,571
+1044,Disclosure of general approach in relation to measures to provide and (or) enable remedy for human rights impacts ,narrative,721
+1045,Disclosure of whether and how policies are aligned with relevant internationally recognised instruments ,narrative,481
+1046,"Disclosure of extent and indication of nature of cases of non-respect of the UN Guiding Principles on Business and Human Rights, ILO Declaration on Fundamental Principles and Rights at Work or OECD Guidelines for Multinational Enterprises that involve affected communities",narrative,971
+1047,Disclosure of explanations of significant changes to policies adopted during reporting year ,narrative,671
+1048,"Disclosure on an illustration of the types of communication of its policies to those individuals, group of individuals or entities for whom they are relevant",narrative,341
+1049,Disclosures to be reported in case the undertaking has not adopted policies,nan,111
+1050,Disclosure of how perspectives of affected communities inform decisions or activities aimed at managing actual and potential impacts ,narrative,751
+1051,"Engagement occurs with affected communities or their legitimate representatives directly, or with credible proxies",semi-narrative,31
+1052,"Disclosure of stage at which engagement occurs, type of engagement and frequency of engagement ",narrative,251
+1053,Disclosure of function and most senior role within undertaking that has operational responsibility for ensuring that engagement happens and that results inform undertakings approach ,narrative,841
+1054,Disclosure of how the undertaking assesses the effectiveness of its engagement with affected communities,narrative,271
+1055,Disclosure of steps taken to gain insight into perspectives of  affected communities hat may be particularly vulnerable to impacts and (or) marginalised ,narrative,701
+1056,Disclosure of how the undertaking takes into account and ensures respect of particular rights of indigenous peoples in its stakeholder engagement approach,narrative,771
+1057,Statement in case the undertaking has not adopted a general process to engage with affected communities,narrative,521
+1058,Disclosure of timeframe for adoption of general process to engage with affected communities in case the undertaking has not adopted a general process for engagement,narrative,431
+1059,Disclosure of general approach to and processes for providing or contributing to remedy where undertaking has identified that it connected with a material negative impact on affected communities   ,narrative,751
+1060,Disclosure of specific channels in place for affected communities to raise concerns or needs directly with undertaking and have them addressed ,narrative,301
+1061,Disclosure of processes through which undertaking supports or requires availability of channels ,narrative,891
+1062,Disclosure of how issues raised and addressed are tracked and monitored and how effectiveness of channels is ensured ,narrative,681
+1063,Disclosure of how it is assessed that affected communities are aware of and trust structures or processes as way to raise their concerns or needs and have them addressed ,narrative,931
+1064,Policies regarding protection against retaliation for individuals that use channels to raise concerns or needs are in place,semi-narrative,561
+1065,Statement in case the undertaking has not adopted a general process to engage with affected communities,narrative,101
+1066,Disclosure of timeframe for channel or processes for raising concerns to be in place ,narrative,791
+1067,Disclosure of whether and how affected communities are able to access channels at level of undertaking they are affected by,narrative,501
+1068,Third-party mechanisms are accessible to all affected communities,semi-narrative,711
+1069,Grievances are treated confidentially and with respect to rights of privacy and data protection,semi-narrative,861
+1070,affected communities   are allowed to use anonymously channels to raise concerns or needs,semi-narrative,761
+1071,"Action plans and resources to manage its material impacts, risks, and opportunities related to affected communities [see ESRS 2 - MDR-A]",MDR-A,381
+1072,"Description of action taken, planned or underway to prevent, mitigate or remediate material negative impacts on affected communities   ",narrative,111
+1073,Description of whether and how the undertaking has taken action to provide or enable remedy in relation to an actual material impact,narrative,821
+1074,Description of additional initiatives or processes with primary purpose of delivering positive impacts for affected communities  ,narrative,591
+1075,Description of how effectiveness of actions or initiatives in delivering outcomes for affected communities is tracked and assessed ,narrative,111
+1076,Description of processes to identifying what action is needed and appropriate in response to particular actual or potential material negative impact on affected communities   ,narrative,261
+1077,Description of approach to taking action in relation to specific material impacts on affected communities   ,narrative,141
+1078,Description of approach to ensuring that processes to provide or enable remedy in event of material negative impacts on affected communities are available and effective in their implementation and outcomes ,narrative,251
+1079,Description of what action is planned or underway to mitigate material risks arising from impacts and dependencies on affected communities and how effectiveness is tracked ,narrative,441
+1080,Description of what action is planned or underway to pursue material opportunities in relation to affected communities   ,narrative,211
+1081,Disclosure of whether and how it is ensured that own practices do not cause or contribute to material negative impacts on affected communities   ,narrative,411
+1082,Disclosure of severe human rights issues and incidents connected to affected communities ,narrative,451
+1083,Disclosure of resources allocated to management of material impacts ,narrative,911
+1084,Disclosure of general and specific approaches to addressing material negative impacts ,narrative,751
+1085,Disclosure of social investment or other development programmes aimed at contributing to additional material positive impacts,narrative,751
+1086,Disclosure of how far undertaking has progressed in efforts during reporting period ,narrative,101
+1087,Disclosure of aims for continued improvement ,narrative,521
+1088,Disclosure of whether and how undertaking seeks to use leverage with relevant business relationships to manage material negative impacts affecting  affected communities   ,narrative,411
+1089,Disclosure of how participation in industry or multi-stakeholder initiative and undertaking's own involvement is aiming to address material impacts ,narrative,121
+1090,Disclosure of how affected communities  play role in decisions regarding design and implementation of programmes or processes ,narrative,531
+1091,Information about intended or achieved positive outcomes of programmes or processes for  affected communities   ,narrative,901
+1092,"Explanation of the approximate scope of affected communities covered by the described social investment or development programmes, and, where applicable, the rationale for why selected communities were chosen",narrative,621
+1093,Initiatives or processes whose primary aim is to deliver positive impacts for affected communities are designed also to support achievement of one or more of Sustainable Development Goals,semi-narrative,261
+1094,Description of internal functions that are involved in managing impacts and types of action taken by internal functions to address negative and advance positive impacts ,narrative,621
+1095,Disclosures to be reported if the undertaking has not adopted actions,nan,41
+1096,"Targets set to manage material impacts, risks and opportunities related to affected communities [see ESRS 2 - MDR-T]",MDR-T,891
+1097,Disclosure of how affected communities were engaged directly in setting targets,narrative,871
+1098,Disclosure of how affected communities  were engaged directly in tracking performance against targets,narrative,671
+1099,Disclosure of how affected communities  were engaged directly in identifying lessons or improvements as result of undertaking’s performance,narrative,901
+1100,Disclosure of intended outcomes to be achieved in lives of  affected communities   ,narrative,541
+1101,Information about stability over time of target in terms of definitions and methodologies to enable comparability ,narrative,301
+1102,Disclosure of references to standards or commitments on which target is based ,narrative,991
+1103,Disclosures to be reported if the undertaking has not adopted targets,nan,571
+1104,All  consumers and end-users who can be materially impacted by undertaking are included in scope of disclosure under ESRS 2,semi-narrative,521
+1105,Description of types of consumers and end-users subject to material impacts,narrative,851
+1106,Type of consumers and end-users subject to material impacts by own operations or through value chain,semi-narrative,701
+1107,Material negative impacts occurrence (consumers and end-users),semi-narrative,551
+1108,Description of activities that result in positive impacts and types of  consumers and end-users that are positively affected or could be positively affected ,narrative,851
+1109,Description of material risks and opportunities arising from impacts and dependencies on  consumers and end-users   ,narrative,641
+1110,"Disclosure of how understanding of how consumers and end-users with particular characteristics, working in particular contexts, or undertaking particular activities may be at greater risk of harm has been developed",narrative,231
+1111,Disclosure of which of material risks and opportunities arising from impacts and dependencies on consumers and end-users are impacts on specific groups ,narrative,21
+1112,"Policies to manage material impacts, risks and opportunities related to consumers and end-users [see ESRS 2 MDR-P]",MDR-P,861
+1113,"Policies to manage material impacts, risks and opportunities related to affected communities, including specific groups or all consumers / end-users",narrative,261
+1114,Description of relevant human rights policy commitments relevant to consumers and/or end-users,narrative,731
+1115,Disclosure of general approach in relation to respect for human rights of consumers and end-users,narrative,231
+1116,Disclosure of general approach in relation to engagement with consumers and/or end-users,narrative,121
+1117,Disclosure of general approach in relation to measures to provide and (or) enable remedy for human rights impacts ,narrative,611
+1118,Description of whether and how policies are aligned with relevant internationally recognised instruments ,narrative,131
+1119,"Disclosure of extent and indication of nature of cases of non-respect of the UN Guiding Principles on Business and Human Rights, ILO Declaration on Fundamental Principles and Rights at Work or OECD Guidelines for Multinational Enterprises that involve consumers and/or end-users",narrative,731
+1120,Disclosure of explanations of significant changes to policies adopted during reporting year ,narrative,181
+1121,"Disclosure on an illustration of the types of communication of its policies to those individuals, group of individuals or entities for whom they are relevant",narrative,811
+1122,Disclosures to be reported in case the undertaking has not adopted policies,nan,651
+1123,Disclosure of how perspectives of consumers and end-users inform decisions or activities aimed at managing actual and potential impacts ,narrative,131
+1124,"Engagement occurs with consumers and end-users  or their legitimate representatives directly, or with credible proxies",semi-narrative,81
+1125,"Disclosure of stage at which engagement occurs, type of engagement and frequency of engagement ",narrative,881
+1126,Disclosure of function and most senior role within undertaking that has operational responsibility for ensuring that engagement happens and that results inform undertakings approach ,narrative,661
+1127,Disclosure of how effectiveness of engagement with  consumers and end-users   is assessed ,narrative,841
+1128,Disclosure of steps taken to gain insight into perspectives of  consumers and end-users  / consumers and end-users that may be particularly vulnerable to impacts and (or) marginalised ,narrative,641
+1129,Statement in case the undertaking has not adopted a general process to engage with consumers and/or end-users,narrative,891
+1130,Disclosure of timeframe for adoption of general process to engage with  consumers and end-users   in case the undertaking has not adopted a general process for engageme,narrative,451
+1131,Type of role or function handling with engagement,semi-narrative,201
+1132,Disclosure of general approach to and processes for providing or contributing to remedy where undertaking has identified that it connected with a material negative impact on consumers and end-users   ,narrative,601
+1133,Disclosure of specific channels in place for consumers and end-users to raise concerns or needs directly with undertaking and have them addressed ,narrative,811
+1134,Disclosure of processes through which undertaking supports or requires availability of channels ,narrative,591
+1135,Disclosure of how issues raised and addressed are tracked and monitored and how effectiveness of channels is ensured ,narrative,1
+1136,Disclosure of how it is assessed that consumers and end-users are aware of and trust structures or processes as way to raise their concerns or needs and have them addressed ,narrative,451
+1137,Policies regarding protection against retaliation for individuals that use channels to raise concerns or needs are in place,semi-narrative,231
+1138,Statement in case the undertaking has not adopted a general process to engage with consumers and/or end-users,narrative,721
+1139,Disclosure of timeframe for channel or processes for raising concerns to be in place ,narrative,261
+1140,Disclosure of whether and how consumers and/or end-users are able to access channels at level of undertaking they are affected by,narrative,261
+1141,Third-party mechanisms are accessible to all consumers and/or end-users,narrative,451
+1142,Grievances are treated confidentially and with respect to rights of privacy and data protection,semi-narrative,781
+1143,consumers and end-users   are allowed to use anonymously channels to raise concerns or needs,semi-narrative,41
+1144,Number of complaints received from consumers and/or end users during the reporting period,Integer,311
+1145,"Action plans and resources to manage its material impacts, risks, and opportunities related to consumers and end-users [see ESRS 2 - MDR-A]",MDR-A,281
+1146,"Description of action planned or underway to prevent, mitigate or remediate material negative impacts on consumers and end-users   ",narrative,621
+1147,description of action to provide or enable remedy in relation to an actual material impact,narrative,411
+1148,Description of additional initiatives or processes with primary purpose of delivering positive impacts for consumers and end-users  ,narrative,121
+1149,Description of how effectiveness of actions or initiatives in delivering outcomes for consumers and end-users is tracked and assessed ,narrative,571
+1150,Description of approach to identifying what action is needed and appropriate in response to particular actual or potential material negative impact on  consumers and end-users   ,narrative,691
+1151,Description of approach to taking action in relation to specific material impacts on consumers and end-users   ,narrative,971
+1152,Description of approach to ensuring that processes to provide or enable remedy in event of material negative impacts on  consumers and end-users are available and effective in their implementation and outcomes ,narrative,691
+1153,Description of what action is planned or underway to mitigate material risks arising from impacts and dependencies on consumers and end-users and how effectiveness is tracked ,narrative,701
+1154,Description of what action is planned or underway to pursue material opportunities in relation to consumers and end-users   ,narrative,491
+1155,Disclosure of how it is ensured that own practices do not cause or contribute to material negative impacts on consumers and end-users   ,narrative,541
+1156,Disclosure of severe human rights issues and incidents connected to consumers and/or end-users,narrative,441
+1157,Disclosure of resources allocated to management of material impacts ,narrative,721
+1158,Disclosure of general and specific approaches to addressing material negative impacts ,narrative,931
+1159,Disclosure of initiatives aimed at contributing to additional material positive impacts ,narrative,541
+1160,Disclosure of how far undertaking has progressed in efforts during reporting period ,narrative,171
+1161,Disclosure of aims for continued improvement ,narrative,631
+1162,Disclosure of whether how undertaking seeks to use leverage with relevant business relationships to manage material negative impacts affecting  consumers and end-users   ,narrative,281
+1163,Disclosure of how participation in industry or multi-stakeholder initiative and undertaking's own involvement is aiming to address material impacts ,narrative,951
+1164,Disclosure of how consumers and end-users play role in decisions regarding design and implementation of programmes or processes ,narrative,251
+1165,Information about intended or achieved positive outcomes of programmes or processes for consumers and end-users   ,narrative,101
+1166,Initiatives or processes whose primary aim is to deliver positive impacts for consumers and/or end-users are designed also to support achievement of one or more of Sustainable Development Goals,semi-narrative,491
+1167,Description of internal functions that are involved in managing impacts and types of action taken by internal functions to address negative and advance positive impacts ,narrative,21
+1168,Disclosures to be reported if the undertaking has not adopted actions,nan,241
+1169,"Targets set to manage material impacts, risks and opportunities related to consumers and end-users [see ESRS 2 - MDR-T]",MDR-T,471
+1170,Disclosure of how consumers and end-users were engaged directly in setting targets,narrative,561
+1171,Disclosure of how consumers and end-users were engaged directly in tracking performance against targets,narrative,521
+1172,Disclosure of how consumers and end-users were engaged directly in identifying lessons or improvements as result of undertaking’s performance,narrative,781
+1173,Disclosure of intended outcomes to be achieved in lives of consumers and end-users   ,narrative,461
+1174,Information about stability over time of target in terms of definitions and methodologies to enable comparability ,narrative,581
+1175,Disclosure of references to standards or commitments on which target is based ,narrative,671
+1176,Disclosures to be reported if the undertaking has not adopted targets,nan,421
+1177,"Disclosure of role of administrative, management and supervisory bodies related to business conduct",narrative,761
+1178,"Disclosure of expertise of administrative, management and supervisory bodies on business conduct matters",narrative,911
+1179,"Policies in place to manage its material impacts, risks and opportunities related to climate change mitigation and adaptation [see ESRS 2 MDR-P]",MDR-P,11
+1180,"Description of how the undertaking establishes, develops, promotes and evaluates its corporate culture",narrative,851
+1181,"Description of the mechanisms for identifying, reporting and investigating concerns about unlawful behaviour or behaviour in contradiction of its code of conduct or similar internal rules",narrative,71
+1182,No policies on anti-corruption or anti-bribery consistent with United Nations Convention against Corruption are in place,semi-narrative,151
+1183,Timetable for implementation of policies on anti-corruption or anti-bribery consistent with United Nations Convention against Corruption,narrative,451
+1184,Disclosure of safeguards for reporting irregularities including whistleblowing protection,narrative,601
+1185,No policies on protection of whistle-blowers are in place,semi-narrative,361
+1186,Timetable for implementation of policies on protection of whistle-blowers,narrative,271
+1187,"Undertaking is committed to investigate business conduct incidents promptly, independently and objectively",semi-narrative,871
+1188,Policies with respect to animal welfare are in place,semi-narrative,891
+1189,Information about policy for training within organisation on business conduct,narrative,91
+1190,Disclosure of the functions that are most at risk in respect of corruption and bribery,narrative,91
+1191,Entity is subject to legal requirements with regard to protection of whistleblowers,semi-narrative,941
+1192,"Description of policy to prevent late payments, especially to SMEs",narrative,121
+1193,"Description of approaches in regard to relationships with suppliers, taking account risks related to supply chain and impacts on sustainability matters",narrative,931
+1194,Disclosure of how social and environmental criteria are taken into account for selection of supply-side contractual partners,narrative,211
+1195,Disclosures to be reported in case the undertaking has not adopted policies,nan,591
+1196,"Information about procedures in place to prevent, detect, and address allegations or incidents of corruption or bribery",narrative,151
+1197,Investigators or investigating committee are separate from chain of management involved in prevention and detection of corruption or bribery,semi-narrative,11
+1198,"Information about process to report outcomes to administrative, management and supervisory bodies",narrative,71
+1199,"Disclosure of plans to adopt procedures to prevent, detect, and address allegations or incidents of corruption or bribery in case of no procedure",narrative,901
+1200,Information about how policies are communicated to those for whom they are relevant (prevention and detection of corruption or bribery),narrative,381
+1201,"Information about nature, scope and depth of anti-corruption or anti-bribery training programmes offered or required",narrative,191
+1202,Percentage of functions-at-risk covered by training programmes,Percent,92%
+1203,"Information about members of administrative, supervisory and management bodies relating to anti-corruption or anti-bribery training",narrative,91
+1204,"Disclosure of an analysis of its training activities by, for example, region of training or category",narrative,801
+1205,Prevention and detection of corruption or bribery - anti-corruption and bribery training table,Table,631
+1206,"Action plans and resources to manage its material impacts, risks, and opportunities related to consumers and end-users [see ESRS 2 - MDR-A]",MDR-A,921
+1207,Number of convictions for violation of anti-corruption and anti- bribery laws,Integer,411
+1208,Amount of fines for violation of anti-corruption and anti- bribery laws,Monetary,221
+1209,Number of confirmed incidents of corruption or bribery,Integer,851
+1210,Information about nature of confirmed incidents of corruption or bribery,narrative,681
+1211,Number of confirmed incidents in which own workers were dismissed or disciplined for corruption or bribery-related incidents,Integer,811
+1212,Number of confirmed incidents relating to contracts with business partners that were terminated or not renewed due to violations related to corruption or bribery,Integer,791
+1213,Information about details of public legal cases regarding corruption or bribery brought against undertaking and own workers and about outcomes of such cases,narrative,211
+1214,"Information about representative(s) responsible in administrative, management and supervisory bodies for oversight of political influence and lobbying activities",narrative,21
+1215,Information about financial or in-kind political contributions,narrative,691
+1216,Financial political contributions made,Monetary,821
+1217,Amount of internal and external lobbying expenses,Monetary,591
+1218,Amount paid for membership to lobbying associations,Monetary,421
+1219,In-kind political contributions made,Monetary,161
+1220,Disclosure of how monetary value of in-kind contributions is estimated,narrative,161
+1221,Financial and in-kind political contributions made [table],Table,231
+1222,Disclosure of main topics covered by lobbying activities and undertaking's main positions on these topics,narrative,891
+1223,Undertaking is registered in EU Transparency Register or in equivalent transparency register in Member State,semi-narrative,741
+1224,"Information about appointment of any members of administrative, management and supervisory bodies who held comparable position in public administration in two years preceding such appointment",narrative,741
+1225,The entity is legally obliged to be a member of a chamber of commerce or other organisation that represents its interests,semi-narrative,721
+1226,Disclosures to be reported if the undertaking has not adopted actions,nan,861
+1227,Average number of days to pay invoice from date when contractual or statutory term of payment starts to be calculated,Integer,441
+1228,Description of undertakings standard payment terms in number of days by main category of suppliers,narrative,871
+1229,Percentage of payments aligned with standard payment terms,Percent,75%
+1230,Number of outstanding legal proceedings for late payments,Integer,521
+1231,Disclosure of contextual information regarding payment practices,narrative,281

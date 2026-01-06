@@ -1,0 +1,21 @@
+
+ai_services/Copilot/__pycache__
+ai_services/__pycache__
+.vs
+node_modules
+.angular
+.vscode
+package-lock.json
+.DS_Store
+dist
+*.pyc*
+*.env
+
+# secrets
+**/config.ini
+
+# local/generated index/cache
+data/pkl/
+*.pickle
+*.pkl
+.env

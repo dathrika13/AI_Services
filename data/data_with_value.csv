@@ -1,0 +1,138 @@
+Info,Type,Value,Standard
+Does your organization break down its Scope 1 emissions by greenhouse gas type?,,Yes,
+"What were your organization’s gross global Scope 1 emissions in metric tons CO2e?",,"55,192","GRI 305-1, SASB TC-SC-110a.1"
+"What were your organization’s gross global Scope 2 emissions in metric tons CO2e?",,"841,669.2","GRI 305-1, SASB TC-SC-110a.1"
+"What were your organization’s gross global Scope 3 emissions in metric tons CO2e?",,"98,322","GRI 305-1, SASB TC-SC-110a.1"
+"How do your gross global emissions (Scope 1 and 2 combined) for the reporting year compare to those of the previous reporting year?",,"Item 1",
+#/rate of employee fatalities,,0,"GRI 403-8, 403-9"
+#/rate of high-consequence work-related injuries (excluding fatalities) — employees,,0,"GRI 403-8, 403-9"
+Total fuel consumption from nonrenewable sources (gas/oil),,164.7 GWH,"GRI 302-1, SASB TC-SC-130a.1"
+Total fuel consumption from renewable sources,,0 GWH,"GRI 302-1, SASB TC-SC-130a.1"
+"Total Electricity consumption, 1. Electricity consumption from renewable sources",,1996.2 GWH,"GRI 302-1, SASB TC-SC-130a.1"
+"Total Electricity consumption, 2. Electricity consumption from nonrenewable sources",,467.9 GWH,"GRI 302-1, SASB TC-SC-130a.1"
+Energy intensity ratio (kWh/PB)1,,3350.1,GRI 302-3
+"Total Direct (Scope 1) GHG Emissions (CO2e-ton), for CO2 (gas/oil + cleaning)",,34485,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for CH4,,0,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for N2O,,0,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for HFCs' (HFC-23/HFC-134a),,4438,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for PFCs,,0,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for SF6,,270,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for NF3,,0.2,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for CF4,,58,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for C4F8,,7.4,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for HFE7100,,8214.6,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for HCFC-22,,156.8,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for R-404A,,1535.9,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for HCFC-123,,42.8,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for HFE7200,,8.6,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for R-407C,,0,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for R-508B,,0,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for HCFC-122,,10.6,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for R410,,82.9,"GRI 305-1, SASB TC-SC-110a.1"
+"Total Direct (Scope 1) GHG Emissions (CO2e-ton), all gases combines",,"49,310.7","GRI 305-1, SASB TC-SC-110a.1"
+Total Indirect (Scope 2) GHG Emissions (CO2e-ton),,841669.2,GRI 305-2
+Other Indirect (Scope 3) GHG Emissions (CO2e-ton),,5442.7,GRI 305-3
+Annual electrical power savings due to HDD power efficiency innovations (million kWh),,2954.8,GRI 302-5
+GHG emissions intensity ratio — HDD (Tons/PB)2 (CO2e-ton),,1.2,GRI 305-4
+GHG emissions intensity ratio — SSD (Tons/PB)2 (CO2e-ton),,2.2,GRI 305-5
+"HAZARDOUS WASTE - out of which Hazardous waste diverted",,6040.5 MTons,"GRI 306-3, 306-4, 306-5; SASB TC-SC-150a.1"
+HAZARDOUS WASTE - out of which Hazardous waste disposed,,5596.7 MTons,"GRI 306-3, 306-4, 306-5; SASB TC-SC-150a.1"
+"NON-HAZARDOUS WASTE - out of which Hazardous waste diverted",,10177.3 MTons,"GRI 306-3, 306-4, 306-5; SASB TC-SC-150a.1"
+"NON-HAZARDOUS WASTE - out of which Hazardous waste diverted",,3724.7 MTons,"GRI 306-3, 306-4, 306-5; SASB TC-SC-150a.1"
+Number of drives recycled (cumulative total),,,
+"Total end-of life material recovered (metric tons, cumulative total)",,,
+Percentage of products by revenue that contain IEC 62474 declarable substances,,,
+Percentage of all Tier 1 supplier facilities audited in the RBA Validated Assessment Program or equivalent2,,,
+Percentage of high-risk Tier 1 supplier facilities audited in the RBA Validated Assessment Program or equivalent,,,
+Tier 1 suppliers’ non-conformance rate with the RBA Validated Assessment Program or equivalent,,,
+Tier 1 suppliers associated corrective action rate for priority non-conformances,,,
+Tier 1 suppliers associated corrective action rate for other non-conformances3,,,
+Gender Representation - Management,,,
+Gender Representation - Technical staff,,,
+Gender Representation - All other employees (Factory employees),,,
+Gender Representation - All other employees (Non-factory employees),,,
+Age Representation - Management,,,
+Age Representation - Technical staff,,,
+Age Representation - All other employees (Factory employees),,,
+Age Representation - All other employees (Non-factory employees),,,
+"Racial/Ethnic Group Representation of U.S. Employees Management",,,
+"Racial/Ethnic Group Representation of U.S. Employees Technical Staff",,,
+"Racial/Ethnic Group Representation of U.S. Employees All other employees (Factory employees and Non-factory employees)",,,
+Board Diversity By Gender,,,
+Board Diversity By Age,,,
+Information on Employees and Other Workers by Gender - Male,,,
+Information on Employees and Other Workers by Region - United States,,,
+Information on Employees and Other Workers by Region - Asia,,,
+Information on Employees and Other Workers by Region - Other,,,
+Employee Hires by age group,,,
+Employee Hires by gender,,,
+Employee Hires by Region,,,
+EMPLOYEE TURNOVER - Voluntary turnover by age group,,,
+EMPLOYEE TURNOVER - Involuntary turnover by age group,,,
+EMPLOYEE TURNOVER - Voluntary turnover by gender,,,
+EMPLOYEE TURNOVER - Involuntary turnover by gender,,,
+EMPLOYEE TURNOVER - Voluntary turnover by region,,,
+EMPLOYEE TURNOVER - Involuntary turnover by region,,,
+Employee Lost Time Incident Rate (LTIR),,,
+#/rate of non-employee worker fatalities,,0,"GRI 403-8, 403-9"
+#/rate of high-consequence work-related injuries (excluding fatalities — non-employee workers,,0,"GRI 403-8, 403-9"
+#/rate of recordable work-related injuries (including fatalities — non-employee workers,,10,"GRI 403-8, 403-9"
+#/rate of recordable work-related injuries (including fatalities — non-employee workers,,10,"GRI 403-8, 403-9"
+Number of employees not finished by deadline,,2,GRI 205-1
+Time required to reach 100% training completion (days),,33,GRI 205-1
+Number of employees receiving instructor-led training,,"3,768",GRI 205-1
+Number of professional and managerial workers1 assigned online Global Code of Conduct training,,"22,460",GRI 205-1
+% of training completion by month-end deadline,,99.90%,GRI 205-1
+Percentage of operations assessed for risks related to corruption,,100%,GRI 205-1
+Number of Sub-Tier suppliers,,69,"SASB TC-HW-430a.1, TC-HW-430a.2"
+Number of Sub-Tier supplier facilities,,115,"SASB TC-HW-430a.1, TC-HW-430a.2"
+Percentage of all Sub-Tier supplier facilities audited in the RBA Validated Assessment Program or equivalent2,,61%,"SASB TC-HW-430a.1, TC-HW-430a.2"
+Percentage of high-risk Sub-Tier supplier facilities audited in the RBA Validated Assessment Program or equivalent,,0%,"SASB TC-HW-430a.1, TC-HW-430a.2"
+Sub-Tier suppliers’ non-conformance rate with the RBA Validated Assessment Program or equivalent,,5%,"SASB TC-HW-430a.1, TC-HW-430a.2"
+Sub-Tier suppliers’ associated corrective action rate for priority non-conformances,,100%,"SASB TC-HW-430a.1, TC-HW-430a.2"
+Sub-Tier suppliers’ associated corrective action rate for other non-conformances,,97%,"SASB TC-HW-430a.1, TC-HW-430a.2"
+"Select the name of the standard, protocol, or methodology you have used to collect activity data and calculate emissions.",,Greenhouse Gas Protocol (GHGGP),
+"Are there any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 1, Scope 2 or Scope 3 emissions that are within your selected reporting boundary which are not included in your disclosure?",,"Item 1",
+Does your organization have a board of directors or an equivalent governing body?,,yes,
+"How do your gross global emissions (Scope 1 and 2 combined) for the reporting year compare to those of the previous reporting year?",,"Item 1",
+"Provide details of the sources of Scope 1, Scope 2, or Scope 3 emissions that are within your selected reporting boundary which are not included in your disclosure.",,"Excluded Sources:Scope 3, Category 2: Capital goods Scope 3, Category 3: Fuel and energy-related activities Scope 3, Category 8: Leased assets Scope 3, Category 9: Transportation and distribution downstream Scope 3, Category 10: Processing of sold goods Scope 3, Category 11: Use of sold products Scope 3, Category 12: End of life treatment of sold products Scope 3, Category 13: Leased assets Scope 3, Category 15: Investments",
+"Are there any sources Scope 1, Scope 2 or Scope 3 emissions that are within your selected reporting boundary which are not included in your disclosure?",,Not applicable,
+what is your base year and base year GHG emissions in MT co2e for Base Year,,"FY 2019",
+what is your base year and base year GHG emissions in MT co2e for Combined scope 3 GHG emissions,,"83,337",
+what is your base year and base year GHG emissions in MT co2e for Scope 1 GHG emissions,,"38,759",
+"what is your base year and base year GHG emissions in MT co2e for Scope 2, Location Based GHG emissions",,"1,572,629",
+"what is your base year and base year GHG emissions in MT co2e for Scope 2, Market Based GHG emissions",,"759,881",
+"what is your base year and base year GHG emissions in MT co2e for Total GHG emissions",,"1,694,725",
+"Report your organization’s electricity consumption totals (excluding feedstocks) for FY 2023 in MWh for MWh from renewable sources",,"2,113,075",
+"Report your organization’s electricity consumption totals (excluding feedstocks) for FY 2023 in MWh for MWh from non-renewable sources",,"947,607",
+"Report your organization’s electricity consumption totals (excluding feedstocks) for FY 2023 in MWh for Total (renewable and non-renewable) MWh",,"3,060,682",
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for R-407C,,0,"GRI 305-1, SASB TC-SC-110a.1"
+"Scope 1, 2, and 3 Emissions Inventory (Total Emissions Footprint for FY)",,"896422.6",
+"Report your organization’s energy consumption totals (excluding feedstocks) in MWh for FY 2023 for MWh from Scope 1",,"240,391",
+"Report your organization’s energy consumption totals (excluding feedstocks) in MWh for FY 2023 for MWh from Scope 2",,"3,164,836",
+"Report your organization’s energy consumption totals (excluding feedstocks) in MWh for FY 2023 for Total (Scope 1 and Scope 2) MWh",,"3,405,227",
+"Scope 1, 2, and 3 Emissions Inventory (Total Emissions Footprint for FY 2023)",,"2,140,602",
+"What is your organization’s Scope 1 GHG emissions for FY 2023?",,"55,192",
+"What is your organization’s Scope 2 Location Based GHG emissions for FY 2023?",,"1,784,818",
+"What is your organization’s Scope 2 Market Based GHG emissions for FY 2023?",,"513,483",
+"What is your organization’s combined Scope 3 GHG emissions for FY 2023?",,"98,322",
+"Indicate the verification or assurance status that applies to your reported emissions.",,"Third-party verification or assurance process in place",
+"What is your combined Scope 1, 2, and 3 Emissions total in MT co2e for year 2023",,"2,140,602",
+"Provide details of your absolute emissions target(s) and progress made against those targets.",,"Jabil has set GHG reduction targets to reduce Scope 1 and 2 GHG emissions by 25% by the end of fiscal year 2025 and by 50% by the end of fiscal year 2030 compared to the 2019 baseline levels. They have already met the 25% reduction goal two years ahead of schedule. Additionally, Jabil has a target for carbon neutrality by 2045.",
+"Provide details of your emissions intensity target(s) and progress made against those target(s).",,"Jabil has set GHG reduction targets aligned with the scientific community's recommendations to limit global warming to 1.5 degrees Celsius. The company aimed to reduce Scope 1 and 2 GHG emissions by 25% by the end of fiscal year 2025, a goal achieved two years ahead of schedule. Additionally, Jabil committed to a 50% reduction in these emissions by the end of fiscal year 2030 compared to 2019 baseline levels. The company also set a target for carbon neutrality by 2045. Jabil tracks progress towards sustainability targets using digital dashboards reviewed regularly by leadership teams, making strategy adjustments as needed.",
+"Did you have any other climate-related targets that were active in the reporting year?",,"Yes, there were additional climate-related targets that were active in the reporting year.",
+"What is your organization’s Scope 1 GHG emissions for FY 2022?",,"53,174",
+"What is your organization’s Scope 2 Location Based GHG emissions for FY 2022?",,"1,735,145",
+"What is your organization’s Scope 2 Market Based GHG emissions for FY 2022?",,"558,405",
+"What is your organization’s combined Scope 3 GHG emissions for FY 2022?",,"6,730,917",
+"Report your organization’s energy consumption totals (excluding feedstocks) for FY 2022 for MWh from Scope 1",,"240,926",
+"Report your organization’s energy consumption totals (excluding feedstocks) for FY 2022 for MWh from Scope 2",,"3,072,154",
+"Report your organization’s energy consumption totals (excluding feedstocks) for FY 2022 for Total (Scope 1 and Scope 2) MWh",,"3,313,080",
+"Report your organization’s electricity consumption totals (excluding feedstocks) in MWh for FY 2022 for MWh from renewable sources",,"1,958,504",
+"Report your organization’s electricity consumption totals (excluding feedstocks) in MWh for FY 2022 for MWh from non-renewable sources",,"1,011,256",
+"Report your organization’s electricity consumption totals (excluding feedstocks) in MWh for FY 2022 for Total (renewable and non-renewable) MWh",,"2,969,760",
+"Describe your organization’s approach to reporting Scope 2 emissions for market based?",,"Item 1",
+"What percentage of your total operational spend in the reporting year was on energy?",,"N/A",
+"Did you have an emissions target that was active in the FY 2023?",,"Yes",
+"Which one is your organization’s approach to reporting Scope 2 location-based emissions.",,"Item 1",
+"Does your organization break down its Scope 1 emissions by greenhouse gas type?",,"No",

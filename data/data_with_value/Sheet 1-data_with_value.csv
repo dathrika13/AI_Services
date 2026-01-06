@@ -1,0 +1,121 @@
+Info,Type,Value,Standard
+Does your organization break down its Scope 1 emissions by greenhouse gas type?,Descriptive,Yes,
+What were your organization’s gross global Scope 1 emissions in metric tons CO2e?,,"49,310.7","GRI 305-1, SASB TC-SC-110a.1"
+What were your organization’s gross global Scope 2 emissions in metric tons CO2e?,,"841,669.2","GRI 305-1, SASB TC-SC-110a.1"
+What were your organization’s gross global Scope 3 emissions in metric tons CO2e?,,"5,442.7","GRI 305-1, SASB TC-SC-110a.1"
+"How do your gross global emissions (Scope 1 and 2 combined) for the reporting year compare to those of the previous reporting year?""",,Decreased,
+#/rate of employee fatalities,,0,"GRI 403-8, 403-9"
+#/rate of high-consequence work-related injuries (excluding fatalities) — employees,,0,"GRI 403-8, 403-9"
+Total fuel consumption from nonrenewable sources (gas/oil),,164.7 GWH,"GRI 302-1, SASB TC-SC-130a.1"
+Total fuel consumption from renewable sources,,0 GWH,"GRI 302-1, SASB TC-SC-130a.1"
+"Total Electricity consumption, 1. Electricity consumption
+from renewable sources",,1996.2 GWH,"GRI 302-1, SASB TC-SC-130a.1"
+"Total Electricity consumption, 2. Electricity consumption
+from nonrenewable
+sources",,467.9 GWH,"GRI 302-1, SASB TC-SC-130a.1"
+Energy intensity ratio (kWh/PB)1,,3350.1,GRI 302-3
+"Total Direct (Scope 1) GHG Emissions (CO2e-ton), for CO2 (gas/oil + cleaning)",,34485,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for CH4,,0,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for N2O,,0,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for HFCs' (HFC-23/HFC-134a),,4438,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for PFCs,,0,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for SF6,,270,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for NF3,,0.2,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for CF4,,58,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for C4F8,,7.4,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for HFE7100,,8214.6,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for HCFC-22,,156.8,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for R-404A,,1535.9,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for HCFC-123,,42.8,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for HFE7200,,8.6,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for R-407C,,0,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for R-508B,,0,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for HCFC-122,,10.6,"GRI 305-1, SASB TC-SC-110a.1"
+Total Direct (Scope 1) GHG Emissions (CO2e-ton) for R410,,82.9,"GRI 305-1, SASB TC-SC-110a.1"
+"Total Direct (Scope 1) GHG Emissions (CO2e-ton), all gases combines",,"49,310.7","GRI 305-1, SASB TC-SC-110a.1"
+Total Indirect (Scope 2) GHG Emissions (CO2e-ton),,841669.2,GRI 305-2
+Other Indirect (Scope 3) GHG Emissions (CO2e-ton),,5442.7,GRI 305-3
+Annual electrical power savings due to HDD power efficiency innovations (million kWh),,2954.8,GRI 302-5
+GHG emissions intensity ratio — HDD (Tons/PB)2 (CO2e-ton),,1.2,GRI 305-4
+GHG emissions intensity ratio — SSD (Tons/PB)2 (CO2e-ton),,2.2,GRI 305-5
+"HAZARDOUS WASTE - out of which Hazardous waste diverted
+",,6040.5 MTons,"GRI 306-3, 306-4, 306-5; SASB TC-SC-150a.1"
+HAZARDOUS WASTE - out of which Hazardous waste disposed,,5596.7 MTons,"GRI 306-3, 306-4, 306-5; SASB TC-SC-150a.1"
+"NON-HAZARDOUS WASTE - out of which Hazardous waste diverted
+",,10177.3 MTons,"GRI 306-3, 306-4, 306-5; SASB TC-SC-150a.1"
+"NON-HAZARDOUS WASTE - out of which Hazardous waste diverted
+",,3724.7 MTons,"GRI 306-3, 306-4, 306-5; SASB TC-SC-150a.1"
+Number of drives recycled (cumulative total),,,
+"Total end-of life material recovered (metric tons, cumulative total)",,,
+Percentage of products by revenue that contain IEC 62474 declarable substances,,,
+Percentage of all Tier 1 supplier facilities audited in the RBA Validated Assessment Program or equivalent2,,,
+Percentage of high-risk Tier 1 supplier facilities audited in the RBA Validated Assessment Program or equivalent,,,
+Tier 1 suppliers’ non-conformance rate with the RBA Validated Assessment Program or equivalent,,,
+Tier 1 suppliers associated corrective action rate for priority non-conformances,,,
+Tier 1 suppliers associated corrective action rate for other non-conformances3,,,
+Gender Representation - Management,,,
+Gender Representation - Technical staff,,,
+Gender Representation - All other employees (Factory employees),,,
+Gender Representation - All other employees (Non-factory employees),,,
+Age Representation - Management,,,
+Age Representation - Technical staff,,,
+Age Representation - All other employees (Factory employees),,,
+Age Representation - All other employees (Non-factory employees),,,
+"Racial/Ethnic Group Representation of U.S. Employees
+Management",,,
+"Racial/Ethnic Group Representation of U.S. Employees
+Technical Staff",,,
+"Racial/Ethnic Group Representation of U.S. Employees
+All other employees (Factory employees and Non-factory employees)",,,
+Board Diversity By Gender,,,
+Board Diversity By Age,,,
+Information on Employees and Other Workers by Gender - Male,,,
+Information on Employees and Other Workers by Region - United States,,,
+Information on Employees and Other Workers by Region - Asia,,,
+Information on Employees and Other Workers by Region - Other,,,
+Employee Hires by age group,,,
+Employee Hires by gender,,,
+Employee Hires by Region,,,
+EMPLOYEE TURNOVER - Voluntary turnover by age group,,,
+EMPLOYEE TURNOVER - Involuntary turnover by age group,,,
+EMPLOYEE TURNOVER - Voluntary turnover by gender,,,
+EMPLOYEE TURNOVER - Involuntary turnover by gender,,,
+EMPLOYEE TURNOVER - Voluntary turnover by region,,,
+EMPLOYEE TURNOVER - Involuntary turnover by region,,,
+Employee Lost Time Incident Rate (LTIR),,,
+#/rate of non-employee worker fatalities,,0,"GRI 403-8, 403-9"
+#/rate of high-consequence work-related injuries (excluding fatalities — non-employee workers,,0,"GRI 403-8, 403-9"
+#/rate of recordable work-related injuries (including fatalities — non-employee workers,,10,"GRI 403-8, 403-9"
+#/rate of recordable work-related injuries (including fatalities — non-employee workers,,10,"GRI 403-8, 403-9"
+Number of employees not finished by deadline,,2,GRI 205-1
+Time required to reach 100% training completion (days),,33,GRI 205-1
+Number of employees receiving instructor-led training,,"3,768",GRI 205-1
+Number of professional and managerial workers1 assigned online Global Code of Conduct training,,"22,460",GRI 205-1
+% of training completion by month-end deadline,,99.90%,GRI 205-1
+Percentage of operations assessed for risks related to corruption,,100%,GRI 205-1
+Number of Sub-Tier suppliers,,69,"SASB TC-HW-430a.1, TC-HW-430a.2"
+Number of Sub-Tier supplier facilities,,115,"SASB TC-HW-430a.1, TC-HW-430a.2"
+Percentage of all Sub-Tier supplier facilities audited in the RBA Validated Assessment Program or equivalent2,,61%,"SASB TC-HW-430a.1, TC-HW-430a.2"
+Percentage of high-risk Sub-Tier supplier facilities audited in the RBA Validated Assessment Program or equivalent,,0%,"SASB TC-HW-430a.1, TC-HW-430a.2"
+Sub-Tier suppliers’ non-conformance rate with the RBA Validated Assessment Program or equivalent,,5%,"SASB TC-HW-430a.1, TC-HW-430a.2"
+Sub-Tier suppliers’ associated corrective action rate for priority non-conformances,,100%,"SASB TC-HW-430a.1, TC-HW-430a.2"
+Sub-Tier suppliers’ associated corrective action rate for other non-conformances,,97%,"SASB TC-HW-430a.1, TC-HW-430a.2"
+"Select the name of the standard, protocol, or methodology you have used to collect activity data and calculate emissions.",,ISO 14064,
+"Are there any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 1, Scope 2 or Scope 3 emissions that are within your selected reporting boundary which are not included in your disclosure?",,Yes,
+Does your organization have a board of directors or an equivalent governing body?,,yes,
+How do your gross global emissions (Scope 1 and 2 combined) for the reporting year compare to those of the previous reporting year?,,Decreased,
+Provide your base year and base year emissions,,"Year 2020 and 44,643.4 CO2 e-tons",
+Describe your organization’s approach to reporting Scope 2 emissions for location based,,"We are not reporting a Scope 2, location-based figure",
+Describe your organization’s approach to reporting Scope 2 emissions for market based,,"We are reporting a Scope 2, market-based figure",
+"Provide details of the sources of Scope 1, Scope 2, or Scope 3 emissions that are within your selected reporting boundary which are not included in your disclosure.",,Not applicable,
+"Are there any sources Scope 1, Scope 2 or Scope 3 emissions that are within your selected reporting boundary which are not included in your disclosure?",,Not applicable,
+Provide your base year and base year emissions for Base Year,,FY 2022,
+Provide your base year and base year emissions for Base Year total ,,1073137.50,
+Provide your base year and base year emissions for Base Year Scope 1,,44643.40,
+"Provide your base year and base year emissions for Base Year Scope 2,
+Market Based
+",,"1,000,814.10",
+Provide your base year and base year emissions for Base Year Scope 1,,"27,680.00",
+Report your organization’s energy consumption totals (excluding feedstocks) in MWh for MWh from renewable sources,,467.9,
+Report your organization’s electricity consumption totals (excluding feedstocks) in MWh for MWh from non-renewable sources,,1528.2,
+Report your organization’s electricity consumption totals (excluding feedstocks) in MWh for Total (renewable and non-renewable) MWh,,1996.2,
